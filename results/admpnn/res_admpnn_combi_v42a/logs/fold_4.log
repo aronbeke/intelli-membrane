@@ -1,0 +1,103 @@
+Running fold 4 on GPU 4
+[2025-08-10 10:20:05] Starting training admpnn_combi_v42a, fold 4, type: standard, on GPU 4
+/ibex/user/bekeak/conda-environments/chemprop-akb/lib/python3.12/site-packages/lightning/fabric/plugins/environments/slurm.py:204: The `srun` command is available on your system but is not used. HINT: If your intention is to run Lightning on SLURM, prepend your python command with `srun` like so: srun python /ibex/user/bekeak/meprom-tl/models/fold.py --fold 4  ...
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+/ibex/user/bekeak/conda-environments/chemprop-akb/lib/python3.12/site-packages/lightning/pytorch/callbacks/model_checkpoint.py:654: Checkpoint directory /ibex/user/bekeak/meprom-tl/checkpoints_admpnn/combi exists and is not empty.
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [4]
+Loading `train_dataloader` to estimate number of stepping batches.
+Using attention embedding size: 4
+
+  | Name                 | Type                         | Params | Mode 
+------------------------------------------------------------------------------
+0 | message_passing      | MulticomponentMessagePassing | 106 K  | train
+1 | agg                  | MeanAggregation              | 0      | train
+2 | bn                   | BatchNorm1d                  | 512    | train
+3 | predictor            | RegressionFFN                | 672 K  | train
+4 | X_d_transform        | Identity                     | 0      | train
+5 | attn                 | AttentionAggregator          | 17.5 K | train
+6 | shared_atom_att_agg  | AtomAttentiveAggregation     | 129    | train
+7 | solvent_atom_att_agg | AtomAttentiveAggregation     | 129    | train
+------------------------------------------------------------------------------
+797 K     Trainable params
+0         Non-trainable params
+797 K     Total params
+3.189     Total estimated model params size (MB)
+43        Modules in train mode
+0         Modules in eval mode
+`Trainer.fit` stopped: `max_epochs=1500` reached.
+/ibex/user/bekeak/meprom-tl/models/mpnn_multi.py:471: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(checkpoint_path, map_location=kwargs.get('map_location', None))
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [4]
+Best model saved at: /ibex/user/bekeak/meprom-tl/checkpoints_admpnn/combi/admpnn_combi_v42a_fold4-epoch=1058-val_loss_weighted=0.50.ckpt
+Using learning rate from checkpoint = 0.0001
+Using attention embedding size: 4
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+     Validate metric           DataLoader 0
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+         val/mae            0.3496036231517792
+         val/r2             0.7154935598373413
+        val/rmse            0.49987131357192993
+        val_loss            0.49987131357192993
+    val_loss_weighted       0.49987131357192993
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Training validation results:
+Val RMSE: 0.1920
+Val MAE: 0.1343
+Val R2 (scaled): 0.7155
+[2025-08-10 13:39:54] Finished training admpnn_combi_v42a, fold 4, type: standard, on GPU 4
+/ibex/user/bekeak/conda-environments/chemprop-akb/lib/python3.12/site-packages/lightning/fabric/plugins/environments/slurm.py:204: The `srun` command is available on your system but is not used. HINT: If your intention is to run Lightning on SLURM, prepend your python command with `srun` like so: srun python /ibex/user/bekeak/meprom-tl/models/fold.py --fold 4  ...
+Using default `ModelCheckpoint`. Consider installing `litmodels` package to enable `LitModelCheckpoint` for automatic upload to the Lightning model registry.
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [4]
+Loading extra_scaler for prediction
+/ibex/user/bekeak/conda-environments/chemprop-akb/lib/python3.12/site-packages/lightning/fabric/plugins/environments/slurm.py:204: The `srun` command is available on your system but is not used. HINT: If your intention is to run Lightning on SLURM, prepend your python command with `srun` like so: srun python /ibex/user/bekeak/meprom-tl/models/fold.py --fold 4  ...
+Using default `ModelCheckpoint`. Consider installing `litmodels` package to enable `LitModelCheckpoint` for automatic upload to the Lightning model registry.
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [4]
+Fragmentation failed for molecule: C1=C\CC/C=C\CC/1.[Cl-].[Ir+].[Cl-].[Ir+].C2=C\CC/C=C\CC/2
+Fragmentation failed for molecule: CC(=O)[O-].CC(=O)[O-].[Pd+2]
+Fragmentation failed for molecule: C1=C\CC/C=C\CC/1.[Cl-].[Ir+].[Cl-].[Ir+].C2=C\CC/C=C\CC/2
+Fragmentation failed for molecule: CC(=O)[O-].CC(=O)[O-].[Pd+2]
+Test RMSE: 0.0433
+Test MAE: 0.0248
+Test R2: 0.9873
+Loading extra_scaler for prediction
+/ibex/user/bekeak/conda-environments/chemprop-akb/lib/python3.12/site-packages/lightning/fabric/plugins/environments/slurm.py:204: The `srun` command is available on your system but is not used. HINT: If your intention is to run Lightning on SLURM, prepend your python command with `srun` like so: srun python /ibex/user/bekeak/meprom-tl/models/fold.py --fold 4  ...
+Using default `ModelCheckpoint`. Consider installing `litmodels` package to enable `LitModelCheckpoint` for automatic upload to the Lightning model registry.
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [4]
+Test RMSE: 0.1937
+Test MAE: 0.1342
+Test R2: 0.7223
+Loading extra_scaler for prediction
+/ibex/user/bekeak/conda-environments/chemprop-akb/lib/python3.12/site-packages/lightning/fabric/plugins/environments/slurm.py:204: The `srun` command is available on your system but is not used. HINT: If your intention is to run Lightning on SLURM, prepend your python command with `srun` like so: srun python /ibex/user/bekeak/meprom-tl/models/fold.py --fold 4  ...
+Using default `ModelCheckpoint`. Consider installing `litmodels` package to enable `LitModelCheckpoint` for automatic upload to the Lightning model registry.
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [4]
+Test RMSE: 0.4124
+Test MAE: 0.2744
+Test R2: 0.1814
+Loading extra_scaler for prediction
+/ibex/user/bekeak/conda-environments/chemprop-akb/lib/python3.12/site-packages/lightning/fabric/plugins/environments/slurm.py:204: The `srun` command is available on your system but is not used. HINT: If your intention is to run Lightning on SLURM, prepend your python command with `srun` like so: srun python /ibex/user/bekeak/meprom-tl/models/fold.py --fold 4  ...
+Using default `ModelCheckpoint`. Consider installing `litmodels` package to enable `LitModelCheckpoint` for automatic upload to the Lightning model registry.
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [4]
+Test RMSE: 0.4626
+Test MAE: 0.3199
+Test R2: -0.1265
+Loading extra_scaler for prediction
+Test RMSE: 0.1957
+Test MAE: 0.1377
+Test R2: 0.5679

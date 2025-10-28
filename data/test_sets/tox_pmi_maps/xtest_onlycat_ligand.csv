@@ -1,0 +1,6 @@
+membrane,solvent,solute_smiles,secondary_solute_smiles,secondary_solute_ratio,pressure,temperature,permeance,process_configuration,solute_category
+GMT-oNF-2,Toluene,P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3,P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3,0.5,30,25,0.341,CF,ligand
+PMPerformance,Toluene,P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3,P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3,0.5,30,25,0.717,CF,ligand
+SS336,Toluene,P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3,P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3,0.5,30,25,0.798,CF,ligand
+DM300,Toluene,P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3,P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3,0.5,30,25,0.127,CF,ligand
+SM122,Toluene,P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3,P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3,0.5,30,25,0.18,CF,ligand

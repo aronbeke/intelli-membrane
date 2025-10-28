@@ -1,0 +1,378 @@
+﻿id,doi,year,journal,membrane_detailed,membrane,membrane_family,mwco,contact_angle,zeta_potential,contact_angle_missing,zeta_potential_missing,membrane_type,solute_name,secondary_solute_name,secondary_solute_ratio,solvent,pressure,flux_lmh,permeance,rejection,temperature,process_configuration,exclude
+0,10.1002/cctc.201402368,2014,The European Society Journal for Catalysis,PM280,PM280,,280,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,45,21.3,0.473,0.99,35,CF,0
+1,10.1002/cctc.201601018,2016,ChemCatChem,GMT-oNF2,GMT-oNF-2,,300,87,-15,0,0,PDMS,Rh(BIPHEPHOS),Rh(acac)(CO)2,0.01,Toluene,30,60,2,0.97,25,CF,0
+2,10.1002/cctc.201601018,2016,ChemCatChem,GMT-oNF2,GMT-oNF-2,,300,87,-15,0,0,PDMS,Rh(Xantphos)acac,Rh(acac)(CO)2,0.01,Toluene,30,60,2,0.97,25,CF,0
+3,10.1002/cctc.201601018,2016,ChemCatChem,GMT-oNF2,GMT-oNF-2,,300,87,-15,0,0,PDMS,Rh(TPP),Rh(acac)(CO)2,0.01,Toluene,30,60,2,0.94,25,CF,0
+4,10.1002/cctc.201601018,2016,ChemCatChem,GMT-oNF2,GMT-oNF-2,,300,87,-15,0,0,PDMS,BIPHEPHOS,Rh(BIPHEPHOS),0.2,Toluene,30,60,2,0.98,25,CF,0
+5,10.1002/cctc.201601018,2016,ChemCatChem,GMT-oNF2,GMT-oNF-2,,300,87,-15,0,0,PDMS,Xantphos,Rh(Xantphos)acac,0.2,Toluene,30,60,2,0.95,25,CF,0
+6,10.1002/cctc.201601018,2016,ChemCatChem,GMT-oNF2,GMT-oNF-2,,300,87,-15,0,0,PDMS,Triphenylphosphine,Rh(TPP),0.2,Toluene,30,60,2,0.66,25,CF,0
+7,10.1002/ceat.201900110,2019,Chemical Engineering and Technology,DM300,DM300,,300,59,-37.5,0,0,,Magnesium Triflate,None,0.5,Ethanol,30,2.8305,0.09435,0.9802,50,CF,0
+8,10.1002/cplu.201300112,2013,ChemPlusChem,SM122,SM122,,220,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,40,2.4,0.06,0.996,30,CF,0
+9,10.1002/cplu.201300112,2013,ChemPlusChem,SM122,SM122,,220,-1,0,1,1,,Hoveyda-Grubbs precatalyst 2,None,0.5,Toluene,40,2.4,0.06,0.984,30,CF,0
+10,10.1002/cplu.201300112,2013,ChemPlusChem,SM122,SM122,,220,-1,0,1,1,,Hoveyda-Grubbs precatalyst 3,None,0.5,Toluene,40,2.4,0.06,0.993,30,CF,0
+11,10.1002/cplu.201300112,2013,ChemPlusChem,SM122,SM122,,220,-1,0,1,1,,Hoveyda-Grubbs precatalyst 4,None,0.5,Toluene,40,2.4,0.06,0.996,30,CF,0
+12,10.1002/cssc.200800152,2008,ChemSusChem,SM228,SM228,,228,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,25,8.6,0.344,0.65,25,CF,0
+13,10.1002/cssc.200800152,2008,ChemSusChem,SM228,SM228,,228,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Dimethyl carbonate,25,,0.239,0.7,25,CF,0
+14,10.1002/cssc.200800152,2008,ChemSusChem,SM228,SM228,,228,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Methanol,25,,1.2,0.72,25,CF,0
+15,10.1002/cssc.200800152,2008,ChemSusChem,SM228,SM228,,228,-1,0,1,1,,Hoveyda-Grubbs II complex 2,None,0.5,Toluene,25,8.6,0.344,0.82,25,CF,0
+16,10.1002/cssc.200800152,2008,ChemSusChem,SM228,SM228,,228,-1,0,1,1,,Hoveyda-Grubbs II complex 2,None,0.5,Dimethyl carbonate,25,,0.239,0.8,25,CF,0
+17,10.1002/cssc.200800152,2008,ChemSusChem,SM228,SM228,,228,-1,0,1,1,,Hoveyda-Grubbs II complex 3,None,0.5,Toluene,25,8.6,0.344,0.92,25,CF,0
+18,10.1002/cssc.200800152,2008,ChemSusChem,SM228,SM228,,228,-1,0,1,1,,Hoveyda-Grubbs II complex 3,None,0.5,Dimethyl carbonate,25,,0.239,0.92,25,CF,0
+19,10.1002/jctb.6109,2019,Journal of Chemical Technology & Biotechnology ,SM122,SM122,,220,-1,0,1,1,,Hoveyda-Grubbs Catalyst M700,None,0.5,Ethyl acetate,20,266,13.3,0.97,23,CF,0
+20,10.1002/jctb.6109,2019,Journal of Chemical Technology & Biotechnology ,SM122,SM122,,220,-1,0,1,1,,Grubbs Catalyst,None,0.5,Ethyl acetate,20,167.2,8.36,0.94,23,CF,0
+21,10.1002/jctb.6109,2019,Journal of Chemical Technology & Biotechnology ,SS126S,SS126S,,300,-1,0,1,1,,Hoveyda-Grubbs Catalyst M700,None,0.5,Ethyl acetate,20,34,1.7,0.96,23,CF,0
+22,10.1002/jctb.6109,2019,Journal of Chemical Technology & Biotechnology ,SS136,SS136,,500,-1,0,1,1,,Hoveyda-Grubbs Catalyst M700,None,0.5,Ethyl acetate,20,42,2.1,0.9,23,CF,0
+23,10.1016/j.ces.2014.03.029,2014,Chemical Engineering Science,GMT2,GMT-oNF-2,,350,87,-15,0,0,,Triphenylphosphine,None,0.5,2-propanol,30,7.8,0.26,0.663,25,CF,0
+24,10.1016/j.ces.2014.03.029,2014,Chemical Engineering Science,PM280,PM280,,280,-1,0,1,1,,Triphenylphosphine,None,0.5,2-propanol,30,12.2,0.406666667,0.828,25,CF,0
+25,10.1016/j.ces.2014.03.029,2014,Chemical Engineering Science,GMT2,GMT-oNF-2,,350,87,-15,0,0,,Triphenylphosphine,None,0.5,Dimethyl carbonate,30,18.1,0.603333333,0.581,25,CF,0
+26,10.1016/j.ces.2014.03.029,2014,Chemical Engineering Science,PM280,PM280,,280,-1,0,1,1,,Triphenylphosphine,None,0.5,Dimethyl carbonate,30,49.9,1.663333333,0.884,25,CF,0
+27,10.1016/j.ces.2014.03.029,2014,Chemical Engineering Science,GMT2,GMT-oNF-2,,350,87,-15,0,0,,Triphenylphosphine,None,0.5,n-Hexanal ,30,24.2,0.806666667,0.389,25,CF,0
+28,10.1016/j.ces.2014.03.029,2014,Chemical Engineering Science,PM280,PM280,,280,-1,0,1,1,,Triphenylphosphine,None,0.5,n-Hexanal ,30,18.3,0.748466258,0.734,25,CF,0
+29,10.1016/j.ces.2014.03.029,2014,Chemical Engineering Science,GMT2,GMT-oNF-2,,350,87,-15,0,0,,Triphenylphosphine,None,0.5,n-Hexane,30,99.8,3.326666667,0.59,25,CF,0
+30,10.1016/j.ces.2014.03.029,2014,Chemical Engineering Science,PM280,PM280,,280,-1,0,1,1,,Triphenylphosphine,None,0.5,n-Hexane,30,20.3,0.676666667,0.571,25,CF,0
+31,10.1016/j.ces.2014.03.029,2014,Chemical Engineering Science,GMT2,GMT-oNF-2,,350,87,-15,0,0,,Triphenylphosphine,None,0.5,Toluene,30,57.9,1.93,0.905,25,CF,0
+32,10.1016/j.ces.2014.03.029,2014,Chemical Engineering Science,PM280,PM280,,280,-1,0,1,1,,Triphenylphosphine,None,0.5,Toluene,30,41.6,1.386666667,0.967,25,CF,0
+33,10.1016/j.cherd.2017.03.015,2017,Chemical Engineering Research and Design,SM240,SM240,,400,-1,0,1,1,,Co(C5H7O2)3,None,0.5,1-Decene,30,36,1.621621622,0.879,20,DE,0
+34,10.1016/j.cherd.2017.03.015,2017,Chemical Engineering Research and Design,SM240,SM240,,400,-1,0,1,1,,HRh(CO)(PPh3)3,None,0.5,1-Nonanal,30,18,0.725513906,0.98,20,DE,0
+35,10.1016/j.cherd.2017.03.015,2017,Chemical Engineering Research and Design,SM240,SM240,,400,-1,0,1,1,,HRh(CO)(PPh3)3,None,0.5,1-Nonanol,30,3.6,0.144752714,0.98,20,DE,0
+36,10.1016/j.cherd.2017.03.015,2017,Chemical Engineering Research and Design,SM240,SM240,,400,-1,0,1,1,,HRh(CO)(PPh3)3,None,0.5,1-Octene,20,59.4,4.142259414,0.98,20,DE,0
+37,10.1016/j.cherd.2017.03.015,2017,Chemical Engineering Research and Design,SM240,SM240,,400,-1,0,1,1,,Co(C5H7O2)3,None,0.5,1-Octene,20,59.4,4.142259414,0.879,20,DE,0
+38,10.1016/j.cherd.2017.03.015,2017,Chemical Engineering Research and Design,SM240,SM240,,400,-1,0,1,1,,HRh(CO)(PPh3)3,None,0.5,1-Undecanal,30,9.6,0.386007238,0.98,20,DE,0
+39,10.1016/j.cherd.2017.03.015,2017,Chemical Engineering Research and Design,SM240,SM240,,400,-1,0,1,1,,HRh(CO)(PPh3)3,None,0.5,1-Undecanal,30,1.5,0.060313631,0.98,20,DE,0
+40,10.1016/j.crci.2017.01.001,2017,Comptes Rendus Chimie ,SM228,SM228,,280,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,40,8.6,0.215,0.995,25,CF,0
+41,10.1016/j.crci.2017.01.001,2017,Comptes Rendus Chimie ,SM228,SM228,,280,-1,0,1,1,,"(1,3-dimesityl-4,5-dihydro-1H-imidazol-3-ine)dichloro-((4'-(tert-butyldimethylsilyloxy)-4-isopropoxy-3',5'-dimethylbiphenyl-3-yl)methylene)ruthenium",None,0.5,Toluene,40,8.6,0.215,0.985,25,CF,0
+42,10.1016/j.seppur.2013.04.052,2013,Seperation and Purification technology ,SM122,SM122,,220,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,40,2.4,0.06,0.995,26,CF,0
+43,10.1016/j.seppur.2013.04.052,2013,Seperation and Purification technology ,SM122,SM122,,220,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,30,1.8,0.06,0.995,26,CF,0
+44,10.1016/j.seppur.2013.04.052,2013,Seperation and Purification technology ,SM122,SM122,,220,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,20,1.2,0.06,0.984,26,CF,0
+45,10.1016/j.seppur.2013.04.052,2013,Seperation and Purification technology ,SM122,SM122,,220,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,10,0.6,0.06,0.963,26,CF,0
+46,10.1016/j.seppur.2013.04.052,2013,Seperation and Purification technology ,SM122,SM122,,220,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,40,7.2,0.18,0.86,26,DE,0
+47,10.1016/j.seppur.2013.04.052,2013,Seperation and Purification technology ,SM122,SM122,,220,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,30,5.4,0.18,0.86,26,DE,0
+48,10.1016/j.seppur.2013.04.052,2013,Seperation and Purification technology ,SM122,SM122,,220,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,20,4.8,0.24,0.91,26,DE,0
+49,10.1016/j.seppur.2013.04.052,2013,Seperation and Purification technology ,SM122,SM122,,220,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,10,3.5,0.35,0.91,26,DE,0
+50,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,Desal-5,Desal5DL,,300,44,-17,0,0,,Jacobsen Catalyst ,None,0.5,Dichloromethane,25,45,1.8,0.841,20,DE,0
+51,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,Desal-5,Desal5DL,,300,44,-17,0,0,,Pd-BINAP,None,0.5,Dichloromethane,25,102.7,4.108,0.886,40,DE,0
+52,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,Desal-5,Desal5DL,,300,44,-17,0,0,,Pd-BINAP,None,0.5,Dichloromethane,25,73.1,2.924,0.952,30,DE,0
+53,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,Desal-5,Desal5DL,,300,44,-17,0,0,,Pd-BINAP,None,0.5,Dichloromethane,25,49.9,1.996,0.957,20,DE,0
+54,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,MPF50,MPF50,,700,-1,0,1,1,,Jacobsen Catalyst ,None,0.5,Dichloromethane,20,6.7,0.335,0.814,20,DE,0
+55,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,MPF50,MPF50,,700,-1,0,1,1,,Pd-BINAP,None,0.5,Dichloromethane,25,10.2,0.408,0.934,20,DE,0
+56,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,MPF50,MPF50,,700,-1,0,1,1,,Jacobsen Catalyst ,None,0.5,Ethyl acetate,25,78.7,3.148,0.93,20,DE,0
+57,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,MPF50,MPF50,,700,-1,0,1,1,,Pd-BINAP,None,0.5,Ethyl acetate,25,91.3,3.652,0.957,40,DE,0
+58,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,MPF50,MPF50,,700,-1,0,1,1,,Pd-BINAP,None,0.5,Ethyl acetate,25,77.4,3.096,0.974,30,DE,0
+59,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,MPF50,MPF50,,700,-1,0,1,1,,Pd-BINAP,None,0.5,Ethyl acetate,25,73.2,2.928,0.981,20,DE,0
+60,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,SM120,SM120,,200,-1,0,1,1,,Jacobsen Catalyst ,None,0.5,Ethyl acetate,25,56,2.24,0.996,20,DE,0
+61,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,SM120,SM120,,200,-1,0,1,1,,Pd-BINAP,None,0.5,Ethyl acetate,25,56.5,2.26,0.99,20,DE,0
+62,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,SM122,SM122,,220,-1,0,1,1,,Jacobsen Catalyst ,None,0.5,Ethyl acetate,25,105.9,4.236,0.994,20,DE,0
+63,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,SM122,SM122,,220,-1,0,1,1,,Pd-BINAP,None,0.5,Ethyl acetate,25,147.3,5.892,0.99,44,DE,0
+64,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,SM240,SM240,,400,-1,0,1,1,,Jacobsen Catalyst ,None,0.5,Ethyl acetate,25,124.7,4.988,0.954,20,DE,0
+65,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,SM240,SM240,,400,-1,0,1,1,,Pd-BINAP,None,0.5,Ethyl acetate,30,172,5.733333333,0.949,40,DE,0
+66,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,SM240,SM240,,400,-1,0,1,1,,Pd-BINAP,None,0.5,Ethyl acetate,30,150.9,5.03,0.956,30,DE,0
+67,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,SM240,SM240,,400,-1,0,1,1,,Pd-BINAP,None,0.5,Ethyl acetate,30,131,4.366666667,0.983,20,DE,0
+68,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,Desal-5,Desal5DL,,300,44,-17,0,0,,Jacobsen Catalyst ,None,0.5,Tetrahydrofuran,25,31.9,1.276,0.779,20,DE,0
+69,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,MPF50,MPF50,,700,-1,0,1,1,,Jacobsen Catalyst ,None,0.5,Tetrahydrofuran,20,107.1,5.355,0.942,20,DE,0
+70,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,MPF50,MPF50,,700,-1,0,1,1,,Pd-BINAP,None,0.5,Tetrahydrofuran,25,182.6,7.304,0.947,40,DE,0
+71,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,MPF50,MPF50,,700,-1,0,1,1,,Pd-BINAP,None,0.5,Tetrahydrofuran,25,166.2,6.648,0.956,30,DE,0
+72,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,MPF50,MPF50,,700,-1,0,1,1,,Pd-BINAP,None,0.5,Tetrahydrofuran,25,134,5.36,0.971,20,DE,0
+73,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,SM122,SM122,,220,-1,0,1,1,,Jacobsen Catalyst ,None,0.5,Tetrahydrofuran,20,54.5,2.725,0.958,20,DE,0
+74,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,SM122,SM122,,220,-1,0,1,1,,Pd-BINAP,None,0.5,Tetrahydrofuran,25,118.2,4.728,0.99,40,DE,0
+75,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,SM122,SM122,,220,-1,0,1,1,,Pd-BINAP,None,0.5,Tetrahydrofuran,25,93.6,3.744,0.99,30,DE,0
+76,10.1016/S0376-7388(01)00751-7,2002,Journal of Membrane Science ,SM122,SM122,,220,-1,0,1,1,,Pd-BINAP,None,0.5,Tetrahydrofuran,25,71,2.84,0.99,20,DE,0
+77,10.1039/C3RA44860F,2013,Royal Society Of Chemistry,DM200,DM200,,200,59,-20,0,0,,M2 Grubbs Catalyst M202,None,0.5,Acetone,20,16,0.8,0.95,25,CF,0
+78,10.1039/C3RA44860F,2013,Royal Society Of Chemistry,DM200,DM200,,200,59,-20,0,0,,M2 Grubbs Catalyst M202,None,0.5,Dichloromethane,20,16,0.8,0.73,25,CF,0
+79,10.1080/01496395.2019.1706573,2021,Seperation Science and Technology,NF030306,SS336,,500,82,0,0,1,,Rh(acac)(CO)2 ,None,0.5,Dimethyl carbonate,30,10,0.333333333,0.86,27,CF,0
+80,10.1080/01496395.2019.1706573,2021,Seperation Science and Technology,SM240,SM240,,400,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Dimethyl carbonate,30,45,1.5,0.948,27,CF,0
+81,10.1080/01496395.2019.1706573,2021,Seperation Science and Technology,Pervap 4060,PV46,,600,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,30,99,3.3,0.9,27,DE,0
+82,10.1080/01496395.2019.1706573,2021,Seperation Science and Technology,Pervap 4060,PV46,,600,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,30,99,3.3,0.954,27,CF,0
+83,10.1080/01496395.2019.1706573,2021,Seperation Science and Technology,Pervap 4060,PV46,,600,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,30,99,3.3,0.949,27,CF,0
+84,10.1080/01496395.2019.1706573,2021,Seperation Science and Technology,Pervap 4060,PV46,,600,-1,0,1,1,,Rh(acac)(CO)2 ,None,0.5,Toluene,30,105,3.5,0.4,27,CF,0
+85,10.1080/01496395.2019.1706573,2021,Seperation Science and Technology,Pervap 4060,PV46,,600,-1,0,1,1,,Rh(acac)(CO)2 ,None,0.5,Toluene,30,105,3.5,0.609,27,DE,0
+86,10.1080/01496395.2019.1706573,2021,Seperation Science and Technology,SM122,SM122,,220,-1,0,1,1,,Hoveyda-Grubbs II,None,0.5,Toluene,30,23,0.766666667,0.996,27,CF,0
+87,10.1080/01496395.2019.1706573,2021,Seperation Science and Technology,SM122,SM122,,220,-1,0,1,1,,Rh(acac)(CO)2 ,None,0.5,Toluene,30,23,0.766666667,0.578,27,CF,0
+88,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,PMS600,,600,-1,0,1,1,,Palladium(II)acetate,None,0.5,2-propanol,40,0.8,0.01,0.75,25,DE,0
+89,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,PMS600,,600,-1,0,1,1,,Bis(tri-O-tolylphosphine)palladium(II),Palladium(II)acetate,0.01,2-propanol,40,0.8,0.02,0.9,25,DE,0
+90,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,DM500,,600,-1,0,1,1,,Pd[II](XPHOS),Palladium(II)acetate,0.01,Methanol,40,0.4,0.01,0.81,25,DE,0
+91,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,DM500,,600,-1,0,1,1,,Pd[II](XPHOS),Palladium(II)acetate,0.01,2-propanol,40,0.4,0.01,0.95,25,DE,0
+92,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,DM500,,600,-1,0,1,1,,Pd[II](XPHOS),Palladium(II)acetate,0.01,1-Butanol,40,0.4,0.01,0.98,25,DE,0
+93,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,PMS600,,600,-1,0,1,1,,"Diacetato(1,3-bis(diphenylphosphino)propane)palladium",Palladium(II)acetate,0.01,2-propanol,40,0.4,0.01,0.97,25,DE,0
+94,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,DM500,,600,-1,0,1,1,,"Diacetato(1,3-bis(diphenylphosphino)propane)palladium",Palladium(II)acetate,0.01,Methanol,40,0.4,0.01,0.8,25,DE,0
+95,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,DM500,,600,-1,0,1,1,,"Diacetato(1,3-bis(diphenylphosphino)propane)palladium",Palladium(II)acetate,0.01,2-propanol,40,0.4,0.01,0.89,25,DE,0
+96,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,DM500,,600,-1,0,1,1,,"Diacetato(1,3-bis(diphenylphosphino)propane)palladium",Palladium(II)acetate,0.01,1-Butanol,40,0.4,0.01,0.97,25,DE,0
+97,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,PMS600,,600,-1,0,1,1,,Pd[II](dppBz),Palladium(II)acetate,0.01,2-propanol,40,0.4,0.01,0.98,25,DE,0
+98,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,PMS600,,600,-1,0,1,1,,Pd[II](dppBz),Palladium(II)acetate,0.01,Methanol,40,0.4,0.01,0.9,25,DE,0
+99,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,PMS600,,600,-1,0,1,1,,Pd[II](dppBz),Palladium(II)acetate,0.01,Toluene,40,0.4,0.01,0.99,25,DE,0
+100,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,DM500,,600,-1,0,1,1,,Pd[II](dppBz),Palladium(II)acetate,0.01,Methanol,40,0.4,0.01,0.87,25,DE,0
+101,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,DM500,,600,-1,0,1,1,,Pd[II](dppBz),Palladium(II)acetate,0.01,2-propanol,40,0.4,0.01,0.92,25,DE,0
+102,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,DM500,,600,-1,0,1,1,,Pd[II](dppBz),Palladium(II)acetate,0.01,1-Butanol,40,0.4,0.01,0.97,25,DE,0
+103,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,PMS600,,600,-1,0,1,1,,Palladium(II)acetate,None,0.5,Methanol,40,0.4,0.01,0.75,25,DE,0
+104,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,PMS600,,600,-1,0,1,1,,Bis(tri-O-tolylphosphine)palladium(II),Palladium(II)acetate,0.01,Methanol,40,0.4,0.01,0.95,25,DE,0
+105,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,PMS600,,600,-1,0,1,1,,"Diacetato(1,3-bis(diphenylphosphino)propane)palladium",Palladium(II)acetate,0.01,Methanol,40,0.8,0.02,0.8,25,DE,0
+106,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,PMS600,,600,-1,0,1,1,,Palladium(II)acetate,None,0.5,Toluene,40,80,0.05,0.6,25,DE,0
+107,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,PMS600,,600,-1,0,1,1,,Bis(tri-O-tolylphosphine)palladium(II),Palladium(II)acetate,0.01,Toluene,40,50,0.05,0.8,25,DE,0
+108,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,PS600,PMS600,,600,-1,0,1,1,,"Diacetato(1,3-bis(diphenylphosphino)propane)palladium",Palladium(II)acetate,0.01,Toluene,40,40,0.05,0.98,25,DE,0
+109,10.3390/membranes10080166,2020,MDPI - membranes,BW30,BW30,,100,51,-6,0,0,,Palladium(II)acetate,None,0.5,2-propanol ,10,0.5,0.05,0.05,23,DE,0
+110,10.3390/membranes10080166,2020,MDPI - membranes,BW30,BW30,,100,51,-6,0,0,,Pd(PPh3)2Cl2 ,None,0.5,2-propanol ,20,0.5,0.025,0.99,23,DE,0
+111,10.3390/membranes10080166,2020,MDPI - membranes,NF270,NF270,,150,33,-21.6,0,0,,Palladium(II)acetate,None,0.5,2-propanol ,10,6,0.6,0.09,23,DE,0
+112,10.3390/membranes10080166,2020,MDPI - membranes,NF270,NF270,,150,33,-21.6,0,0,,Pd(PPh3)2Cl2 ,None,0.5,2-propanol ,20,11,0.55,0.77,23,DE,0
+113,10.3390/membranes10080166,2020,MDPI - membranes,NF90,NF90,,200,59.8,-27,0,0,,Palladium(II)acetate,None,0.5,2-propanol ,10,3,0.3,0.3,23,DE,0
+114,10.3390/membranes10080166,2020,MDPI - membranes,NF90,NF90,,200,59.8,-27,0,0,,Pd(PPh3)2Cl2 ,None,0.5,2-propanol ,20,6.5,0.325,0.99,23,DE,0
+115,10.3390/membranes10080166,2020,MDPI - membranes,XLE,XLE,,96,59.6,-19,0,0,,Palladium(II)acetate,None,0.5,2-propanol ,10,0.02,0.002,0.35,23,DE,0
+116,10.3390/membranes10080166,2020,MDPI - membranes,XLE,XLE,,96,59.6,-19,0,0,,Pd(PPh3)2Cl2 ,None,0.5,2-propanol ,20,0.4,0.02,0.99,23,DE,0
+117,10.3390/membranes10080166,2020,MDPI - membranes,BW30,BW30,,100,51,-6,0,0,,Palladium(II)acetate,None,0.5,Acetonitrile ,10,10,1,0.1,23,DE,0
+118,10.3390/membranes10080166,2020,MDPI - membranes,BW30,BW30,,100,51,-6,0,0,,Pd(PPh3)2Cl2 ,None,0.5,Acetonitrile ,10,10,1,0.28,23,DE,0
+119,10.3390/membranes10080166,2020,MDPI - membranes,BW30,BW30,,100,51,-6,0,0,,Palladium(II)acetate,None,0.5,Acetonitrile ,20,20,1,0.05,23,DE,0
+120,10.3390/membranes10080166,2020,MDPI - membranes,BW30,BW30,,100,51,-6,0,0,,Pd(PPh3)2Cl2 ,None,0.5,Acetonitrile ,20,20,1,0.23,24,DE,0
+121,10.3390/membranes10080166,2020,MDPI - membranes,NF270,NF270,,150,33,-21.6,0,0,,Palladium(II)acetate,None,0.5,Acetonitrile ,20,23,1.15,0.04,25,DE,0
+122,10.3390/membranes10080166,2020,MDPI - membranes,NF270,NF270,,150,33,-21.6,0,0,,Pd(PPh3)2Cl2 ,None,0.5,Acetonitrile ,20,23,1.15,0.07,26,DE,0
+123,10.3390/membranes10080166,2020,MDPI - membranes,NF90,NF90,,200,59.8,-27,0,0,,Palladium(II)acetate,None,0.5,Acetonitrile ,10,23,2.3,0.38,23,DE,0
+124,10.3390/membranes10080166,2020,MDPI - membranes,NF90,NF90,,200,59.8,-27,0,0,,Pd(PPh3)2Cl2 ,None,0.5,Acetonitrile ,10,23,2.3,0.45,23,DE,0
+125,10.3390/membranes10080166,2020,MDPI - membranes,NF90,NF90,,200,59.8,-27,0,0,,Palladium(II)acetate,None,0.5,Acetonitrile ,20,45,2.25,0.26,27,DE,0
+126,10.3390/membranes10080166,2020,MDPI - membranes,NF90,NF90,,200,59.8,-27,0,0,,Pd(PPh3)2Cl2 ,None,0.5,Acetonitrile ,20,45,2.25,0.3,28,DE,0
+127,10.3390/membranes10080166,2020,MDPI - membranes,XLE,XLE,,96,59.6,-19,0,0,,Palladium(II)acetate,None,0.5,Acetonitrile ,10,7,0.7,0.35,23,DE,0
+128,10.3390/membranes10080166,2020,MDPI - membranes,XLE,XLE,,96,59.6,-19,0,0,,Pd(PPh3)2Cl2 ,None,0.5,Acetonitrile ,10,7,0.7,0.38,23,DE,0
+129,10.3390/membranes10080166,2020,MDPI - membranes,XLE,XLE,,96,59.6,-19,0,0,,Palladium(II)acetate,None,0.5,Acetonitrile ,20,12,0.6,0.35,29,DE,0
+130,10.3390/membranes10080166,2020,MDPI - membranes,XLE,XLE,,96,59.6,-19,0,0,,Pd(PPh3)2Cl2 ,None,0.5,Acetonitrile ,20,12,0.6,0.13,30,DE,0
+131,10.3390/membranes11060423,2021,MDPI - membranes,DM300,DM300,,300,59,-37.5,0,0,,Magnesium Triflate,None,0.5,Ethanol,30,13.32,0.444,0.98,25,CF,0
+132,10.3390/membranes11060423,2021,MDPI - membranes,DM300,DM300,,300,59,-37.5,0,0,,Magnesium Triflate,None,0.5,Ethanol,50,0.92,0.0184,0.741,25,CF,0
+133,10.1002/cssc.201100355,2012,Wiley Online Library ,DM200,DM200,,200,59,-20,0,0,,Pd[0](PPh3)2(OAc),Pd[0](PPh3)2,0.1,Acetone,30,56.1,1.87,1,25,CF,0
+134,10.1002/cssc.201100355,2012,Wiley Online Library ,DM300,DM300,,300,59,-37.5,0,0,,Pd[0](PPh3)2(OAc),Pd[0](PPh3)2,0.1,Acetone,30,74.4,2.48,0.878,25,CF,0
+135,10.1002/cssc.201100355,2012,Wiley Online Library ,DM150,DM150,,150,,,0,1,,Pd[0](PPh3)2(OAc),Pd[0](PPh3)2,0.1,Acetone,30,68.7,2.29,0.903,25,CF,0
+136,10.1039/b602184k,2006,Royal Society of Chemistry ,SM122,SM122,,220,-1,0,1,1,,Ru-BINAP-Cl,None,0.5,Methanol,20,230.8,11.54,0.984,35,DE,0
+137,10.1039/b602184k,2006,Royal Society of Chemistry ,SM122,SM122,,220,-1,0,1,1,,Ru-BINAP-Cl,None,0.5,Methanol,20,230.8,11.54,0.956,35,DE,0
+138,10.1039/b602184k,2006,Royal Society of Chemistry ,SM122,SM122,,220,-1,0,1,1,,Ru-BINAP-Cl,None,0.5,Methanol,20,230.8,11.54,0.972,35,DE,0
+139,10.1039/c3ra44860f,2013,Royal Society of Chemistry ,DM200,DM200,,200,59,-20,0,0,,M2 Grubbs Catalyst M202,None,0.5,Dichloromethane,20,62,3.1,0.87,25,CF,0
+140,10.1039/c3ra44860f,2013,Royal Society of Chemistry ,DM200,DM200,,200,59,-20,0,0,,M2 Grubbs Catalyst M202,None,0.5,Dichloromethane,20,62,3.1,0.56,25,CF,0
+141,10.1039/c3ra44860f,2013,Royal Society of Chemistry ,DM200,DM200,,200,59,-20,0,0,,Hoveyda-Grubbs Catalyst M700,None,0.5,Dichloromethane,20,8,0.4,1,25,CF,0
+142,10.1039/c3ra44860f,2013,Royal Society of Chemistry ,DM200,DM200,,200,59,-20,0,0,,M2 Grubbs Catalyst M202,None,0.5,Acetone,20,16,0.8,0.99,25,CF,0
+143,10.1039/c3ra44860f,2013,Royal Society of Chemistry ,DM200,DM200,,200,59,-20,0,0,,Hoveyda-Grubbs Catalyst M700,None,0.5,Dichloromethane,20,8,0.4,0.35,25,CF,0
+144,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,DM500,DM500,,500,59,-31,0,0,,Palladium(II)acetate,None,0.5,Methanol,40,6,0.15,0.905,25,DE,0
+145,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,DM500,DM500,,500,59,-31,0,0,,Palladium(II)acetate,None,0.5,2-propanol,40,0.8,0.02,0.903,25,DE,0
+146,10.3389/fchem.2020.00375,2020,Frontiers in Chemistry ,DM500,DM500,,500,59,-31,0,0,,Palladium(II)acetate,None,0.5,1-Butanol,40,84,2.1,0.95,25,DE,0
+147,10.1021/acs.oprd.4c00359,2025,Organic Proocess Research & Development,DM500,DM500,,500,,,,,,DTBM-MeOBiPhep Ir complex,[Ir(COD)Cl]2,0.01,Tetrahydrofuran,15,50.4,3.36,0.94129979,25,CF,0
+148,10.1021/acs.oprd.4c00359,2025,Organic Proocess Research & Development,DM500,DM500,,500,,,,,,[Ir(COD)Cl]2,None,0.5,Tetrahydrofuran,15,50.4,3.36,0.722222222,25,CF,0
+149,10.1021/acs.oprd.4c00359,2025,Organic Proocess Research & Development,DM500,DM500,,500,,,,,,DTBM-SegPhos Ir complex,[Ir(COD)Cl]2,0.01,Tetrahydrofuran,15,50.4,3.36,0.496503497,25,CF,0
+150,10.1021/acs.oprd.4c00359,2025,Organic Proocess Research & Development,DM500,DM500,,500,,,,,,[Ir(COD)Cl]2,None,0.5,Tetrahydrofuran,15,50.4,3.36,0.640495868,25,CF,0
+151,10.1021/acs.iecr.7b03770,2017,Industrial and engineering chemistry research ,Polyether–ether–ketone (PEEK) membrane,PEEK,,470,,,,,,Pd(DPPB),Pd(tfa)2,0.01,Toluene,10,25.8,0.003,0.9,100,CF,0
+152,10.1021/acs.iecr.7b03770,2017,Industrial and engineering chemistry research ,Polyether–ether–ketone (PEEK) membrane,PEEK,,470,,,,,,DPPB,Pd(DPPB),0.25,Toluene,10,25.8,0.003,0.68,90,CF,0
+153,10.1021/acs.iecr.7b03770,2017,Industrial and engineering chemistry research ,Polyether–ether–ketone (PEEK) membrane,PEEK,,470,,,,,,Pd(DPPB),Pd(tfa)2,0.01,Toluene,10,25.8,0.003,0.92,90,CF,0
+154,10.1021/acs.iecr.7b03770,2017,Industrial and engineering chemistry research ,Polyether–ether–ketone (PEEK) membrane,PEEK,,470,,,,,,Pd(DPPB),Pd(tfa)2,0.01,Toluene,10,25.8,0.003,0.92,120,CF,0
+155,10.1021/acs.iecr.7b03770,2017,Industrial and engineering chemistry research ,Polyether–ether–ketone (PEEK) membrane,PEEK,,470,,,,,,DPPB,Pd(DPPB),0.25,Toluene,10,25.8,0.003,0.7,100,CF,0
+156,10.1021/acs.iecr.7b03770,2017,Industrial and engineering chemistry research ,Polyether–ether–ketone (PEEK) membrane,PEEK,,470,,,,,,DPPB,Pd(DPPB),0.25,Toluene,10,25.8,0.003,0.63,120,CF,0
+157,10.1002/cssc.201200466,2012,ChemSusChem,Starmem 228,SM228,,280,,,,,,OctaSi-Ru-Grubbs-Hoveyda-type olefin metathesis catalyst,None,0.5,Toluene,30,0,0,1,30,DE,0
+158,10.1002/cssc.201200466,2012,ChemSusChem,Puramem 280,PM280,,280,,,,,,OctaSi-Ru-Grubbs-Hoveyda-type olefin metathesis catalyst,None,0.5,Toluene,30,34.8,1.16,0.98,30,DE,0
+159,10.1002/cssc.201200466,2012,ChemSusChem,Starmem 240 ,SM240,,400,,,,,,OctaSi-Ru-Grubbs-Hoveyda-type olefin metathesis catalyst,None,0.5,Toluene,30,75.9,2.53,0.72,30,DE,0
+160,10.1002/cssc.201200466,2012,ChemSusChem,Duramem 500 ,DM500,,500,,,,,,OctaSi-Ru-Grubbs-Hoveyda-type olefin metathesis catalyst,None,0.5,Dichloromethane,30,0,0,0.71,30,DE,0
+161,10.1021/om900214j,2009,Organometallics ,PDMS,PDMS,,,,,,,,(NHC)Pd(allyl)Cl,None,0.5,2-propanol,5,5.3,1.06,0.98,25,CF,0
+162,10.1021/om900214j,2009,Organometallics ,PDMS,PDMS,,,,,,,,(NHC)Pd(allyl)Cl,None,0.5,Tetrahydrofuran,5,5.3,1.06,0.995,25,CF,0
+163,10.1016/j.cep.2015.07.019,2016,Chemical Engineering and processing ,GMT-oNF-2,GMT-oNF-2,,400,-1,0,1,1,,Rh(BIPHEPHOS),Rh(acac)(CO)2,0.01,Toluene-Nonanal-mix,20,40.6,2.03,0.99,5,CF,0
+164,10.1016/j.cep.2015.07.019,2016,Chemical Engineering and processing ,GMT-oNF-2,GMT-oNF-2,,400,-1,0,1,1,,BIPHEPHOS,Rh(BIPHEPHOS),0.2,Toluene-Nonanal-mix,20,40.6,2.03,0.97,5,CF,0
+165,10.1016/j.cep.2015.07.019,2016,Chemical Engineering and processing ,GMT-oNF-2,GMT-oNF-2,,400,-1,0,1,1,,Rh(Xantphos)acac,Rh(acac)(CO)2,0.01,Toluene-Nonanal-mix,20,40.6,2.03,0.99,5,CF,0
+166,10.1016/j.cep.2015.07.019,2016,Chemical Engineering and processing ,GMT-oNF-2,GMT-oNF-2,,400,-1,0,1,1,,Xantphos,Rh(Xantphos)acac,0.2,Toluene-Nonanal-mix,20,40.6,2.03,0.98,5,CF,0
+167,10.1016/j.cep.2015.07.019,2016,Chemical Engineering and processing ,GMT-oNF-2,GMT-oNF-2,,400,-1,0,1,1,,Rh(TPP),Rh(acac)(CO)2,0.01,Toluene-Nonanal-mix,20,40.6,2.03,0.95,5,CF,0
+168,10.1016/j.cep.2015.07.019,2016,Chemical Engineering and processing ,GMT-oNF-2,GMT-oNF-2,,400,-1,0,1,1,,Triphenylphosphine,Rh(TPP),0.2,Toluene-Nonanal-mix,20,40.6,2.03,0.8,5,CF,0
+169,10.1016/j.cep.2015.07.019,2016,Chemical Engineering and processing ,GMT-oNF-2,GMT-oNF-2,,400,-1,0,1,1,,Rh(BIPHEPHOS),Rh(acac)(CO)2,0.01,Toluene-Tridecanal-mix,20,40.6,2.03,0.95,5,CF,0
+170,10.1016/j.cep.2015.07.019,2016,Chemical Engineering and processing ,GMT-oNF-2,GMT-oNF-2,,400,-1,0,1,1,,BIPHEPHOS,Rh(BIPHEPHOS),0.2,Toluene-Tridecanal-mix,20,40.6,2.03,0.98,5,CF,0
+171,10.1016/j.cep.2015.07.019,2016,Chemical Engineering and processing ,GMT-oNF-2,GMT-oNF-2,,400,-1,0,1,1,,Rh(Xantphos)acac,Rh(acac)(CO)2,0.01,Toluene-Tridecanal-mix,20,40.6,2.03,0.95,5,CF,0
+172,10.1016/j.cep.2015.07.019,2016,Chemical Engineering and processing ,GMT-oNF-2,GMT-oNF-2,,400,-1,0,1,1,,Xantphos,Rh(Xantphos)acac,0.2,Toluene-Tridecanal-mix,20,40.6,2.03,0.92,5,CF,0
+173,10.1016/j.cep.2015.07.019,2016,Chemical Engineering and processing ,GMT-oNF-2,GMT-oNF-2,,400,-1,0,1,1,,Rh(TPP),Rh(acac)(CO)2,0.01,Toluene-Tridecanal-mix,20,40.6,2.03,0.93,5,CF,0
+174,10.1016/j.cep.2015.07.019,2016,Chemical Engineering and processing ,GMT-oNF-2,GMT-oNF-2,,400,-1,0,1,1,,Triphenylphosphine,Rh(TPP),0.2,Toluene-Tridecanal-mix,20,40.6,2.03,0.61,5,CF,0
+175,10.1016/j.cep.2015.07.019,2016,Chemical Engineering and processing ,GMT-oNF-2,GMT-oNF-2,,400,-1,0,1,1,,Rh(acac)(CO)2 ,None,0.5,Toluene,20,40.6,2.03,0.85,5,CF,0
+176,10.1002/cplu.201900553,2019,ChemPlusChem,Pervap 4060,PV46,,600,-1,0,1,1,,BIPHEPHOS,None,0.5,Toluene,5,12,2.4,0.73,27,CF,0
+177,10.1002/cplu.201900553,2019,ChemPlusChem,Pervap 4060,PV46,,600,-1,0,1,1,,BIPHEPHOS,None,0.5,Toluene,10,24,2.4,0.88,27,CF,0
+178,10.1002/cplu.201900553,2019,ChemPlusChem,Pervap 4060,PV46,,600,-1,0,1,1,,BIPHEPHOS,None,0.5,Toluene,20,48,2.4,0.9,27,CF,0
+179,10.1002/cplu.201900553,2019,ChemPlusChem,Pervap 4060,PV46,,600,-1,0,1,1,,BIPHEPHOS,None,0.5,Toluene,30,72,2.4,0.92,27,CF,0
+180,10.1002/cplu.201900553,2019,ChemPlusChem,Pervap 4060,PV46,,600,-1,0,1,1,,BIPHEPHOS,None,0.5,Toluene,40,96,2.4,0.95,27,CF,0
+181,10.1002/cplu.201900553,2019,ChemPlusChem,Pervap 4060,PV46,,600,-1,0,1,1,,Rh(acac)(CO)2 ,None,0.5,Toluene,10,24,2.4,0.2,27,CF,0
+182,10.1002/cplu.201900553,2019,ChemPlusChem,Pervap 4060,PV46,,600,-1,0,1,1,,Rh(acac)(CO)2 ,None,0.5,Toluene,40,96,2.4,0.3,27,CF,0
+183,10.1002/cplu.201900553,2019,ChemPlusChem,Pervap 4060,PV46,,600,-1,0,1,1,,Rh(BIPHEPHOS),Rh(acac)(CO)2 ,0.01,Toluene,10,24,2.4,0.9,27,CF,0
+184,10.1002/cplu.201900553,2019,ChemPlusChem,Pervap 4060,PV46,,600,-1,0,1,1,,A4N3 ligand ,None,0.5,Toluene,10,24,2.4,0.89,27,CF,0
+185,10.1002/cplu.201900553,2019,ChemPlusChem,Pervap 4060,PV46,,600,-1,0,1,1,,Zhang ligand ,None,0.5,Toluene,10,24,2.4,0.93,27,CF,0
+186,10.1002/cplu.201900553,2019,ChemPlusChem,Pervap 4060,PV46,,600,-1,0,1,1,,Modified Biphephos ,None,0.5,Toluene,10,24,2.4,0.88,27,CF,0
+187,10.1039/D4CY01148A,2025,Royal Society of Chemistry ,NF030105,SS315,,300,,,,,,Rh(BIPHEPHOS),Rh(acac)(CO)2,0.01,Toluene-Octene-mix,40,115.6,2.89,0.98,40,CF,0
+188,10.1039/D4CY01148A,2025,Royal Society of Chemistry ,NF030105,SS315,,300,,,,,,BIPHEPHOS,Rh(BIPHEPHOS),0.2,Toluene-Octene-mix,40,115.6,2.89,0.98,40,CF,0
+189,10.1039/D4CY01148A,2025,Royal Society of Chemistry ,PS600,PMS600,,600,,,,,,Rh(BIPHEPHOS),Rh(acac)(CO)2,0.01,Toluene-Octene-mix,40,58,1.45,0.84,40,CF,0
+190,10.1039/D4CY01148A,2025,Royal Society of Chemistry ,PS600,PMS600,,600,,,,,,BIPHEPHOS,Rh(BIPHEPHOS),0.2,Toluene-Octene-mix,40,58,1.45,0.84,40,CF,0
+191,10.1039/D4CY01148A,2025,Royal Society of Chemistry ,Puramem 280,PM280,,280,,,,,,Rh(BIPHEPHOS),Rh(acac)(CO)2,0.01,Toluene-Octene-mix,40,46.4,1.16,0.95,40,CF,0
+192,10.1039/D4CY01148A,2025,Royal Society of Chemistry ,Puramem 280,PM280,,280,,,,,,BIPHEPHOS,Rh(BIPHEPHOS),0.2,Toluene-Octene-mix,40,46.4,1.16,0.94,40,CF,0
+193,10.1039/D4CY01148A,2025,Royal Society of Chemistry ,GMT-oNF2,GMT-oNF-2,,300,,,,,,Rh(BIPHEPHOS),Rh(acac)(CO)2,0.01,Toluene-Octene-mix,40,92.8,2.32,0.87,40,CF,0
+194,10.1039/D4CY01148A,2025,Royal Society of Chemistry ,GMT-oNF2,GMT-oNF-2,,300,,,,,,BIPHEPHOS,Rh(BIPHEPHOS),0.2,Toluene-Octene-mix,40,92.8,2.32,0.81,40,CF,0
+195,10.1039/B009898L,2001,Royal Society of Chemistry,MPF60,MPF60,,400,,,,,,Rh-EtDUPHOS,None,0.5,Methanol,10,1.2,0.12,0.97,30,CF,0
+196,10.1039/B009898L,2001,Royal Society of Chemistry,MPF60,MPF60,,400,,,,,,Ru-BINAP2-Cl,None,0.5,Methanol,10,1.2,0.12,0.98,30,CF,0
+197,10.1002/chem.200802153,2009,Wiley Online Library ,PDMS,PDMS,,,,,,,,Grubbs-Huveyda 3,None,0.5,Toluene,5,,5.882,0.998,27,DE,0
+198,10.1016/S0376-7388(01)00704-9,2002,Journal of Membrane Science ,MPF50,MPF50,,700,-1,0,1,1,,tetrabutylammonium bromide,None,0.5,Toluene,30,19,0.633333333,0.61,20,CF,0
+199,10.1016/S0376-7388(01)00704-9,2002,Journal of Membrane Science ,MPF60,MPF60,,400,,,,,,tetrabutylammonium bromide,None,0.5,Toluene,30,5,0.166666667,0.89,20,CF,0
+200,10.1016/S0376-7388(01)00704-9,2002,Journal of Membrane Science ,Desal-5,Desal5DL,,300,44,-17,0,0,,tetrabutylammonium bromide,None,0.5,Toluene,30,3,0.1,0.55,20,CF,0
+201,10.1016/S0376-7388(01)00704-9,2002,Journal of Membrane Science ,SM122,SM122,,220,-1,0,1,1,,tetrabutylammonium bromide,None,0.5,Toluene,30,23,0.766666667,0.99,20,CF,0
+202,10.1016/S0376-7388(01)00704-9,2002,Journal of Membrane Science ,SM120,SM120,,200,-1,0,1,1,,tetrabutylammonium bromide,None,0.5,Toluene,30,20,0.666666667,0.99,20,CF,0
+203,10.1016/S0376-7388(01)00704-9,2002,Journal of Membrane Science ,SM240,SM240,,400,,,,,,tetrabutylammonium bromide,None,0.5,Toluene,30,28,0.933333333,0.8,20,CF,0
+204,10.1016/S0376-7388(01)00704-9,2002,Journal of Membrane Science ,MPF50,MPF50,,700,-1,0,1,1,,tetraoctylammonium bromide (TOABr),None,0.5,Toluene,30,19,0.633333333,0.48,20,CF,0
+205,10.1016/S0376-7388(01)00704-9,2002,Journal of Membrane Science ,MPF60,MPF60,,400,,,,,,tetraoctylammonium bromide (TOABr),None,0.5,Toluene,30,2,0.066666667,0.86,20,CF,0
+206,10.1016/S0376-7388(01)00704-9,2002,Journal of Membrane Science ,Desal-5,Desal5DL,,300,44,-17,0,0,,tetraoctylammonium bromide (TOABr),None,0.5,Toluene,30,4,0.133333333,0.62,20,CF,0
+207,10.1016/S0376-7388(01)00704-9,2002,Journal of Membrane Science ,SM122,SM122,,220,-1,0,1,1,,tetraoctylammonium bromide (TOABr),None,0.5,Toluene,30,26,0.866666667,0.99,20,CF,0
+208,10.1016/S0376-7388(01)00704-9,2002,Journal of Membrane Science ,SM120,SM120,,200,-1,0,1,1,,tetraoctylammonium bromide (TOABr),None,0.5,Toluene,30,24,0.8,0.99,20,CF,0
+209,10.1016/S0376-7388(01)00704-9,2002,Journal of Membrane Science ,SM240,SM240,,400,,,,,,tetraoctylammonium bromide (TOABr),None,0.5,Toluene,30,16,0.533333333,0.99,20,CF,0
+210,10.1021/op900056s,2009,ACS Publications ,SM122,SM122,,220,-1,0,1,1,,Ru-BINAP-Cl,None,0.5,Methanol,30,35.9,1.196666667,0.96,30,CF,0
+211,10.1021/op900056s,2009,ACS Publications ,SM122,SM122,,220,-1,0,1,1,,BINAP,Ru-BINAP-Cl,0.2,Methanol,30,35.9,1.196666667,0.98,30,CF,0
+212,10.1039/B203232P,2002,Royal Society of Chemistry,SM122,SM122,,220,-1,0,1,1,,Bis(tri-O-tolylphosphine)palladium(II),Pd(PPh3)2(oAc)2 ,0.01,Tetrahydrofuran,30,41,1.366666667,0.95,20,CF,0
+213,10.1039/B203232P,2002,Royal Society of Chemistry,SM122,SM122,,220,-1,0,1,1,,Pd-imidazolylidene,None,0.5,Tetrahydrofuran,30,41,1.366666667,0.95,20,CF,0
+214,10.1039/B203232P,2002,Royal Society of Chemistry,SM122,SM122,,220,-1,0,1,1,,Pd-quat,None,0.5,Tetrahydrofuran,30,24.3,0.81,0.95,20,CF,0
+215,10.1039/B203232P,2002,Royal Society of Chemistry,SM122,SM122,,220,-1,0,1,1,,Pd-quat,None,0.5,Acetonitrile,30,24.3,0.81,0.92,20,CF,0
+216,10.1016/j.memsci.2005.10.056,2006,Elsevier,MPF50,MPF50,,700,-1,0,1,1,,Wilkinson catalyst ,None,0.5,Toluene,15,7.05,0.47,0.81,30,DE,0
+217,10.1016/j.memsci.2005.10.056,2006,Elsevier,MPF50,MPF50,,700,-1,0,1,1,,Wilkinson catalyst ,None,0.5,Ethyl acetate ,15,7.5,0.5,0.76,30,DE,0
+218,10.1016/j.memsci.2005.10.056,2006,Elsevier,MPF50,MPF50,,700,-1,0,1,1,,Wilkinson catalyst ,None,0.5,Tetrahydrofuran,15,7.5,0.5,0.55,30,DE,0
+219,10.1039/B312580G/ 10.1016/j.memsci.2006.01.025,2004,Royal Society of Chemistry,PDMS,PDMS,,,,,,,,Co-Jacobsen ,None,0.5,Diethyl ether ,5,5.5,1.1,0.77,20,CF,0
+220,10.1039/B312580G/ 10.1016/j.memsci.2006.01.025,2004,Royal Society of Chemistry,Desal-5,Desal5DL,,,,,,,,Co-Jacobsen ,None,0.5,Diethyl ether ,5,1,0.2,0.04,20,CF,0
+221,10.1039/B312580G/ 10.1016/j.memsci.2006.01.025,2004,Royal Society of Chemistry,MPF50,MPF50,,700,-1,0,1,1,,Co-Jacobsen ,None,0.5,Diethyl ether ,5,5,1,0.15,20,CF,0
+222,10.1070/RC2008v077n11ABEH003795,2008,Russian Academy of Sciences and Turipon Ltd ,MPF60,MPF60,,,,,,,,tetraoctylammonium bromide (TOABr),None,0.5,Toluene,30,5,0.166666667,0.89,25,CF,0
+223,10.1021/acs.iecr.7b03770,2017,ACS Publications ,Polyether–ether–ketone (PEEK) membrane,PEEK,,470,-1,0,1,1,,Pd(DPPB),Pd(tfa)2,0.01,Toluene,10,0.02964,0.002964,0.9,100,CF,0
+224,10.1021/acs.iecr.7b03770,2017,ACS Publications ,Polyether–ether–ketone (PEEK) membrane,PEEK,,470,-1,0,1,1,,DPPB,Pd(DPPB),0.25,Toluene,10,0.02964,0.002964,0.73,100,CF,0
+225,10.1039/B103645A,2001,Royal Society of Chemistry,SM240,SM240,,400,,,,,,tetraoctylammonium bromide (TOABr),None,0.5,Toluene,30,32,1.066666667,0.99,20,CF,0
+226,10.1021/op400037h,2013,ACS Publications ,DM150,DM150,,150,,,,,,Quinine ,None,0.5,Tetrahydrofuran,30,13.5,0.45,0.97,20,DE,0
+227,10.1021/op400037h,2013,ACS Publications ,DM200,DM200,,200,59,-20,0,0,,Quinine ,None,0.5,Tetrahydrofuran,30,51.4,1.713333333,0.93,20,DE,0
+228,10.1021/op400037h,2013,ACS Publications ,DM300,DM300,,300,59,-37.5,0,0,,Quinine ,None,0.5,Tetrahydrofuran,30,49.6,1.653333333,0.9,20,DE,0
+229,10.1021/op400037h,2013,ACS Publications ,PS600,DM500,,600,-1,0,1,1,,Quinine ,None,0.5,Tetrahydrofuran,30,,3.36,0.8,20,DE,0
+230,10.1021/op400037h,2013,ACS Publications ,DM300,DM300,,300,59,-37.5,0,0,,benzo[h]quinoline,None,0.5,Tetrahydrofuran,30,49.6,1.653333333,0.98,20,DE,0
+231,10.1021/op400037h,2013,ACS Publications ,DM300,DM300,,300,59,-37.5,0,0,,cupreine-derived bifunctional organocatalyst BzCPN,None,0.5,Tetrahydrofuran,30,49.6,1.653333333,0.98,20,DE,0
+232,10.1021/acssuschemeng.5b00734,2015,ACS Publications ,DM300,DM300,,300,59,-37.5,0,0,,Tri-n-butyl-(2-hydroxyethyl)phosphonium Iodide,None,0.5,Ethanol,30,6.5,0.216666667,0.96,23,DE,0
+233,10.1021/acssuschemeng.5b00734,2015,ACS Publications ,PS600,DM500,,600,-1,0,1,1,,Tri-n-butyl-(2-hydroxyethyl)phosphonium Iodide,None,0.5,Ethanol,20,3.5,0.175,0.83,23,DE,0
+234,10.1021/acssuschemeng.5b00734,2015,ACS Publications ,DM200,DM200,,200,59,-20,0,0,,Tri-n-butyl-(2-hydroxyethyl)phosphonium Iodide,None,0.5,Ethanol,30,4.8,0.16,0.93,23,DE,0
+235,10.1021/acssuschemeng.5b00734,2015,ACS Publications ,DM150,DM150,,150,,,,,,Tri-n-butyl-(2-hydroxyethyl)phosphonium Iodide,None,0.5,Ethanol,30,2.7,0.09,0.99,23,DE,0
+236,10.1021/acssuschemeng.5b00734,2015,ACS Publications ,DM300,DM300,,300,59,-37.5,0,0,,Tri-n-butyl-(2-hydroxyethyl)phosphonium Iodide,None,0.5,Acetone,20,6.9,0.345,0.97,23,DE,0
+237,10.1021/acssuschemeng.5b00734,2015,ACS Publications ,DM300,DM300,,300,59,-37.5,0,0,,(2-Hydroxyethyl)tri-n-octylphosphonium Iodide,None,0.5,Ethanol,30,11.4,0.38,0.98,23,CF,0
+238,10.1021/acssuschemeng.5b00734,2015,ACS Publications ,DM300,DM300,,300,59,-37.5,0,0,,Tetra-n-butylphosphonium iodide,None,0.5,Ethanol,30,10,0.333333333,0.94,23,CF,0
+239,10.1021/acssuschemeng.5b00734,2015,ACS Publications ,DM300,DM300,,300,59,-37.5,0,0,,Tetra-n-butylammonium iodide,None,0.5,Ethanol,30,9.8,0.326666667,0.9,23,CF,0
+240,10.1039/d4gc06334a,2025,Royal Society of Chemistry,GMT-oNF1,GMT-oNF-1,,600,,,,,,Pd(Xantphos),Pd(dba)2,0.01,2-Methyltetrahydrofuran,20,78,3.9,1,23,CF,0
+241,10.1039/d4gc06334a,2025,Royal Society of Chemistry,GMT-oNF1,GMT-oNF-1,,600,,,,,,Xantphos ,Pd(Xantphos),0.2,2-Methyltetrahydrofuran,20,78,3.9,0.996,23,CF,0
+242,10.1039/d4gc06334a,2025,Royal Society of Chemistry,GMT-oNF2,GMT-oNF-2,,300,,,,,,Pd(Xantphos),Pd(dba)2,0.01,2-Methyltetrahydrofuran,20,86,4.3,0.985,23,CF,0
+243,10.1039/d4gc06334a,2025,Royal Society of Chemistry,GMT-oNF2,GMT-oNF-2,,300,,,,,,Xantphos ,Pd(Xantphos),0.2,2-Methyltetrahydrofuran,20,86,4.3,0.972,23,CF,0
+244,10.1039/d4gc06334a,2025,Royal Society of Chemistry,GMT-oNF3,GMT-oNF-3,,900,,,,,,Pd(Xantphos),Pd(dba)2,0.01,2-Methyltetrahydrofuran,20,190,9.5,0.951,23,CF,0
+245,10.1039/d4gc06334a,2025,Royal Society of Chemistry,GMT-oNF3,GMT-oNF-3,,900,,,,,,Xantphos ,Pd(Xantphos),0.2,2-Methyltetrahydrofuran,20,190,9.5,0.91,23,CF,0
+246,10.1039/d4gc06334a,2025,Royal Society of Chemistry,PMPerformance,PMPerformance,,300,-1,0,1,1,,Pd(Xantphos),Pd(dba)2,0.01,2-Methyltetrahydrofuran,20,36,1.8,0.983,23,CF,0
+247,10.1039/d4gc06334a,2025,Royal Society of Chemistry,PMPerformance,PMPerformance,,300,-1,0,1,1,,Xantphos ,Pd(Xantphos),0.2,2-Methyltetrahydrofuran,20,36,1.8,0.973,23,CF,0
+248,10.1039/d4gc06334a,2025,Royal Society of Chemistry,Solsep NF10206,SS126,,,,,,,,Pd(Xantphos),Pd(dba)2,0.01,2-Methyltetrahydrofuran,20,18,0.9,0.932,23,CF,0
+249,10.1039/d4gc06334a,2025,Royal Society of Chemistry,Solsep NF10206,SS126,,,,,,,,Xantphos ,Pd(Xantphos),0.2,2-Methyltetrahydrofuran,20,18,0.9,0.929,23,CF,0
+250,10.1002/cssc.202101153,2021,Wiley Online Library ,GMT-oNF1,GMT-oNF-1,,600,,,,,,Pt(SIPr)(dms)Cl2,None,0.5,Tetrahydrofuran,20,164.6,8.23,0.93,23,CF,0
+251,10.1002/cssc.202101153,2021,Wiley Online Library ,GMT-oNF1,GMT-oNF-1,,600,,,,,,Pt(SIPr)(dms)Cl2,None,0.5,n-Hexane,20,213.6,10.68,0.86,23,CF,0
+252,10.1002/cssc.202101153,2021,Wiley Online Library ,GMT-oNF2,GMT-oNF-2,,300,,,,,,Pt(SIPr)(dms)Cl2,None,0.5,Tetrahydrofuran,20,90,4.5,0.954,23,CF,0
+253,10.1002/cssc.202101153,2021,Wiley Online Library ,GMT-oNF2,GMT-oNF-2,,300,,,,,,Pt(SIPr)(dms)Cl2,None,0.5,2-Methyltetrahydrofuran,20,99,4.95,0.972,23,CF,0
+254,10.1021/om0303754,2003,ACS Publications ,PDMS,PDMS,,,,,,,,Pd(dba)2,None,0.5,Toluene,5,55,11,0.9995,23,DE,0
+255,10.1039/C8NJ01277F,2018,Royal Society of Chemistry,GMT-oNF1,GMT-oNF-1,,600,,,,,,Cinchona alkaloid 7,None,0.5,Acetonitrile ,10,50.21,5.021,0.882,20,CF,0
+256,10.1039/C8NJ01277F,2018,Royal Society of Chemistry,GMT-oNF1,GMT-oNF-1,,600,,,,,,Cinchona alkaloid 7,None,0.5,Acetonitrile ,20,87.49,4.3745,0.906,20,CF,0
+257,10.1039/C8NJ01277F,2018,Royal Society of Chemistry,GMT-oNF1,GMT-oNF-1,,600,,,,,,Cinchona alkaloid 7,None,0.5,Acetonitrile ,30,113.05,3.768333333,0.937,20,CF,0
+258,10.1039/C8NJ01277F,2018,Royal Society of Chemistry,GMT-oNF2,GMT-oNF-2,,300,,,,,,Cinchona alkaloid 7,None,0.5,Acetonitrile ,10,57.95,5.795,0.873,20,CF,0
+259,10.1039/C8NJ01277F,2018,Royal Society of Chemistry,GMT-oNF2,GMT-oNF-2,,300,,,,,,Cinchona alkaloid 7,None,0.5,Acetonitrile ,20,107.3,5.365,0.893,20,CF,0
+260,10.1039/C8NJ01277F,2018,Royal Society of Chemistry,GMT-oNF2,GMT-oNF-2,,300,,,,,,Cinchona alkaloid 7,None,0.5,Acetonitrile ,30,135.93,4.531,0.925,20,CF,0
+261,10.1039/C8NJ01277F,2018,Royal Society of Chemistry,GMT-oNF3,GMT-oNF-3,,900,,,,,,Cinchona alkaloid 7,None,0.5,Acetonitrile ,10,3.13,0.313,0.923,20,CF,0
+262,10.1039/C8NJ01277F,2018,Royal Society of Chemistry,GMT-oNF3,GMT-oNF-3,,900,,,,,,Cinchona alkaloid 7,None,0.5,Acetonitrile ,20,7.15,0.3575,0.954,20,CF,0
+263,10.1039/C8NJ01277F,2018,Royal Society of Chemistry,GMT-oNF3,GMT-oNF-3,,900,,,,,,Cinchona alkaloid 7,None,0.5,Acetonitrile ,30,11.68,0.389333333,0.983,20,CF,0
+264,10.1039/C8NJ01277F,2018,Royal Society of Chemistry,PBI (in house),PBI,,,,,,,,Cinchona alkaloid 7,None,0.5,Acetonitrile ,10,,3.677248677,0.979,20,CF,0
+265,10.1039/C8NJ01277F,2018,Royal Society of Chemistry,PBI (in house),PBI,,,,,,,,Cinchona alkaloid 7,None,0.5,Acetonitrile ,20,,3.677248677,0.985,20,CF,0
+266,10.1039/C8NJ01277F,2018,Royal Society of Chemistry,PBI (in house),PBI,,,,,,,,Cinchona alkaloid 7,None,0.5,Acetonitrile ,30,,3.677248677,0.991,20,CF,0
+267,10.1039/B516778G,2006,Royal Society of Chemistry,SM122,SM122,,220,-1,0,1,1,,Pd(PPh3)4,Pd2(dba)3,0.01,Ethyl acetate,30,,6.97,0.95,30,DE,0
+268,10.1002/cssc.200800256,2009,Wiley Online Library ,MPF50,MPF50,,700,-1,0,1,1,,"Bis[[3,5-bis[(diphenylphosphinoyl)methyl]phenyl]oxy]-dimethylbiphenyl (diPCP)",None,0.5,Dichloromethane,20,6.7,0.335,0.71,20,DE,0
+269,10.1002/cssc.200800256,2009,Wiley Online Library ,MPF50,MPF50,,700,-1,0,1,1,,"Bis[[3,5-bis[(diphenylphosphinoyl)methyl]phenyl]oxy]-dimethylbiphenyl (diPCP)",None,0.5,Tetrahydrofuran,20,,6.648,0.704,20,DE,0
+270,10.1002/cssc.200800256,2009,Wiley Online Library ,MPF50,MPF50,,700,-1,0,1,1,,"Tris[[3,5-bis[(diphenylphosphinoyl)methyl]phenyl]oxy]-mesitylene (StriPCP)",None,0.5,Dichloromethane,20,,0.408,0.934,20,DE,0
+271,10.1002/cssc.200800256,2009,Wiley Online Library ,MPF50,MPF50,,700,-1,0,1,1,,"Tris[[3,5-bis[(diphenylphosphinoyl)methyl]phenyl]oxy]-mesitylene (StriPCP)",None,0.5,Tetrahydrofuran,20,,6.648,0.975,20,DE,0
+272,10.1002/cssc.200800256,2009,Wiley Online Library ,MPF50,MPF50,,700,-1,0,1,1,,"Tris[[3,5-bis[(diphenylphosphinoyl)methyl]phenyl]oxy]-1,3,5-tri(p-methyl-phenyl)benzene (XLtriPCP) ",None,0.5,Dichloromethane,20,,0.408,0.981,20,DE,0
+273,10.1002/cssc.200800256,2009,Wiley Online Library ,MPF50,MPF50,,700,-1,0,1,1,,"Tris[[3,5-bis[(diphenylphosphinoyl)methyl]phenyl]oxy]-1,3,5-tri(p-methyl-phenyl)benzene (XLtriPCP) ",None,0.5,Tetrahydrofuran,20,,6.648,0.994,20,DE,0
+274,10.1021/op400073p,2013,ACS Publications ,Polyether–ether–ketone (PEEK) membrane,PEEK,,470,,,,,,"[Pd(1,3-bis(diphenylphosphino)propane)(OAc)2]",Palladium(II)acetate,0.01,Dimethylformamide,30,2,0.066666667,0.93,80,CF,0
+275,10.1016/j.memsci.2010.05.002,2010,Elsevier ,SM122,SM122,,220,-1,0,1,1,,HRh(CO)3,None,0.5,1-Octene,25,6.96,0.2784,0.99,60,CF,0
+276,10.1016/j.memsci.2010.05.002,2010,Elsevier ,SM240,SM240,,400,,,,,,HRh(CO)3,None,0.5,1-Dodecene,25,,0.237,0.99,60,CF,0
+277,10.1021/acscatal.5b00149,2015,ACS Publications,Polyether–ether–ketone (PEEK) membrane,PEEK,,470,,,,,,ruthenium diphosphine/diamine catalyst,None,0.5,Toluene,27.6,5.33,0.193115942,0.996,23,CF,0
+278,10.1016/j.jcat.2013.06.020,2013,ACS Publications ,Polyether–ether–ketone (PEEK) membrane,PEEK,,470,,,,,,"[Pd(1,3-bis(diphenylphosphino)propane)(OAc)2]",Palladium(II)acetate,0.01,Dimethylformamide,30,2,0.066666667,0.9,80,CF,0
+279,10.1016/j.memsci.2010.02.032,2010,Elsevier,SM120,SM120,,200,-1,0,1,1,,Grubbs first generation catalyst,None,0.5,1-Octene,30,2.99,0.099666667,0.99,23,DE,0
+280,10.1016/j.memsci.2010.02.032,2010,Elsevier,SM122,SM122,,220,-1,0,1,1,,Grubbs first generation catalyst,None,0.5,1-Octene,30,6.96,0.232,0.99,23,DE,0
+281,10.1016/j.memsci.2010.02.032,2010,Elsevier,SM228,SM228,,228,-1,0,1,1,,Grubbs first generation catalyst,None,0.5,1-Octene,30,13.06,0.435333333,0.99,23,DE,0
+282,10.1016/j.memsci.2010.02.032,2010,Elsevier,SM240,SM240,,400,-1,0,1,1,,Grubbs first generation catalyst,None,0.5,1-Octene,30,88.89,2.963,0.86,23,DE,0
+283,10.1016/j.memsci.2010.02.032,2010,Elsevier,SM120,SM120,,200,-1,0,1,1,,Grubbs second generation catalyst gR2pH,None,0.5,1-Octene,30,2.99,0.099666667,0.994,23,DE,0
+284,10.1016/j.memsci.2010.02.032,2010,Elsevier,SM122,SM122,,220,-1,0,1,1,,Grubbs second generation catalyst gR2pH,None,0.5,1-Octene,30,6.96,0.232,0.994,23,DE,0
+285,10.1016/j.memsci.2010.02.032,2010,Elsevier,SM228,SM228,,228,-1,0,1,1,,Grubbs second generation catalyst gR2pH,None,0.5,1-Octene,30,13.06,0.435333333,0.994,23,DE,0
+286,10.1016/j.memsci.2010.02.032,2010,Elsevier,SM240,SM240,,400,-1,0,1,1,,Grubbs second generation catalyst gR2pH,None,0.5,1-Octene,30,88.89,2.963,0.85,23,DE,0
+287,10.1039/D0GC00498G,2020,Royal Society of Chemistry,SM122,SM122,,220,-1,0,1,1,,Au complex 5,None,0.5,Methanol,10,19,1.9,0.99,25,CF,0
+288,10.1039/D0GC00498G,2020,Royal Society of Chemistry,SM122,SM122,,220,-1,0,1,1,,Au complex 8,None,0.5,Methanol,10,22,2.2,0.98,25,CF,0
+289,10.1039/D0GC00498G,2020,Royal Society of Chemistry,GMT-oNF2,GMT-oNF-2,,300,,,,,,Au complex 3,None,0.5,Tetrahydrofuran,10,39.8,3.98,0.957,25,CF,0
+290,10.1039/D0GC00498G,2020,Royal Society of Chemistry,GMT-oNF1,GMT-oNF-1,,600,,,,,,Au complex 3,None,0.5,Tetrahydrofuran,10,48.7,4.87,0.985,25,CF,0
+291,10.1039/D0GC00498G,2020,Royal Society of Chemistry,GMT-oNF1,GMT-oNF-1,,600,,,,,,Au complex 4,None,0.5,Tetrahydrofuran,10,51.6,5.16,0.97,25,CF,0
+292,10.1039/D0GC00498G,2020,Royal Society of Chemistry,GMT-oNF1,GMT-oNF-1,,600,,,,,,Au complex 5,None,0.5,Tetrahydrofuran,10,56.1,5.61,0.995,25,CF,0
+293,10.1039/D0GC00498G,2020,Royal Society of Chemistry,GMT-oNF1,GMT-oNF-1,,600,,,,,,Au complex 6,None,0.5,Tetrahydrofuran,10,54,5.4,0.993,25,CF,0
+294,10.1039/D0GC00498G,2020,Royal Society of Chemistry,GMT-oNF1,GMT-oNF-1,,600,,,,,,Au complex 7,None,0.5,Tetrahydrofuran,10,59.4,5.94,0.991,25,CF,0
+295,10.1039/D0GC00498G,2020,Royal Society of Chemistry,GMT-oNF1,GMT-oNF-1,,600,,,,,,Au complex 8,None,0.5,Tetrahydrofuran,10,40.6,4.06,0.994,25,CF,0
+296,10.1039/C2GC36407G,2013,Royal Society of Chemistry,PS600,DM500,,600,-1,0,1,1,,Cinchona alkaloid quinidine Catalyst 4,None,0.5,Tetrahydrofuran,18,21,1.166666667,0.999,23,CF,0
+297,10.1039/C2GC36407G,2013,Royal Society of Chemistry,PS600,DM500,,600,-1,0,1,1,,Cinchona alkaloid quinidine Catalyst 7,None,0.5,Tetrahydrofuran,18,50,2.777777778,0.999,23,CF,0
+298,10.1039/C2GC36407G,2013,Royal Society of Chemistry,PS600,DM500,,600,-1,0,1,1,,Cinchona alkaloid quinidine Catalyst 5,None,0.5,Tetrahydrofuran,18,90,5,0.65,23,CF,0
+299,10.1039/C2GC36407G,2013,Royal Society of Chemistry,PS600,DM500,,600,-1,0,1,1,,Cinchona alkaloid quinidine Catalyst 6,None,0.5,Tetrahydrofuran,18,60,3.333333333,0.6,23,CF,0
+300,10.1039/C2GC36407G,2013,Royal Society of Chemistry,PS600,DM500,,600,-1,0,1,1,,Quinine ,None,0.5,Tetrahydrofuran,18,100,5.555555556,0.4,23,CF,0
+301,10.1039/C2GC36407G,2013,Royal Society of Chemistry,DM300,DM300,,300,59,-37.5,0,0,,Quinine ,None,0.5,Tetrahydrofuran,18,43,2.388888889,0.8,23,CF,0
+302,10.1039/C2GC36407G,2013,Royal Society of Chemistry,DM300,DM300,,300,59,-37.5,0,0,,Cinchona alkaloid quinidine Catalyst 5,None,0.5,Tetrahydrofuran,18,22,1.222222222,0.85,23,CF,0
+303,10.3303/CET1647058/ 10.1002/cctc.201601018,2016,Chemical Engineering Transactions,GMT-oNF2,GMT-oNF-2,,300,,,,,,Rh(BIPHEPHOS),Rh(acac)(CO)2,0.01,Toluene-Dodecene-mix,30,60,2,0.97,25,CF,0
+304,10.3303/CET1647058/ 10.1002/cctc.201601018,2016,Chemical Engineering Transactions,GMT-oNF2,GMT-oNF-2,,300,,,,,,BIPHEPHOS,Rh(BIPHEPHOS),0.2,Toluene-Dodecene-mix,30,60,2,0.98,25,CF,0
+305,10.3303/CET1647058/ 10.1002/cctc.201601018,2016,Chemical Engineering Transactions,GMT-oNF2,GMT-oNF-2,,300,,,,,,Rh(TPP),Rh(acac)(CO)2,0.01,Toluene-Dodecene-mix,30,60,2,0.94,25,CF,0
+306,10.3303/CET1647058/ 10.1002/cctc.201601018,2016,Chemical Engineering Transactions,GMT-oNF2,GMT-oNF-2,,300,,,,,,Triphenylphosphine,Rh(TPP),0.2,Toluene-Dodecene-mix,30,60,2,0.66,25,CF,0
+307,10.3303/CET1647058/ 10.1002/cctc.201601018,2016,Chemical Engineering Transactions,GMT-oNF2,GMT-oNF-2,,300,,,,,,Rh(Xantphos)acac,Rh(acac)(CO)2,0.01,Toluene-Dodecene-mix,30,60,2,0.97,25,CF,0
+308,10.3303/CET1647058/ 10.1002/cctc.201601018,2016,Chemical Engineering Transactions,GMT-oNF2,GMT-oNF-2,,300,,,,,,Xantphos,Rh(Xantphos)acac,0.2,Toluene-Dodecene-mix,30,60,2,0.95,25,CF,0
+309,10.1002/app.48359,2020,Wiley Online Library ,Pervap 4060,PV46,,600,-1,0,1,1,,tetraoctylammonium bromide (TOABr),None,0.5,Toluene,10,22,2.2,0.935,30,CF,0
+310,10.1002/app.48359,2020,Wiley Online Library ,Pervap 4060,PV46,,600,-1,0,1,1,,tetraoctylammonium bromide (TOABr),None,0.5,Ethanol,10,3.5,0.35,0.95,30,CF,0
+311,10.1111/j.1749-6632.2003.tb05996.x,2003,Wiley Online Library ,SM122,SM122,,220,-1,0,1,1,,tetraoctylammonium bromide (TOABr),None,0.5,Toluene,30,30,1,0.99,23,DE,0
+312,10.1111/j.1749-6632.2003.tb05996.x,2003,Wiley Online Library ,SM122,SM122,,220,-1,0,1,1,,tetraoctylammonium bromide (TOABr),None,0.5,Methanol,30,15,0.5,0.99,23,DE,0
+313,10.3311/PPch.12719,2018,Periodica Polytechnica Chemical Engineering,PBI,PBI,,,,,,,,(S)-1 amphorsulfon-amide-based organocatalyst,None,0.5,Toluene,30,52,1.733333333,0.7,23,CF,0
+314,10.3311/PPch.12719,2018,Periodica Polytechnica Chemical Engineering,PBI,PBI,,,,,,,,(S)-1 amphorsulfon-amide-based organocatalyst,None,0.5,2-propanol,30,20,0.666666667,0.998,23,CF,0
+315,10.3311/PPch.12719,2018,Periodica Polytechnica Chemical Engineering,PBI,PBI,,,,,,,,(S)-1 amphorsulfon-amide-based organocatalyst,None,0.5,Tetrahydrofuran,30,80,2.666666667,0.92,23,CF,0
+316,10.3311/PPch.12719,2018,Periodica Polytechnica Chemical Engineering,PBI,PBI,,,,,,,,"(S,S)-2 amphorsulfon-amide-based organocatalyst",None,0.5,Toluene,30,52,1.733333333,0.8,23,CF,0
+317,10.3311/PPch.12719,2018,Periodica Polytechnica Chemical Engineering,PBI,PBI,,,,,,,,"(S,S)-2 amphorsulfon-amide-based organocatalyst",None,0.5,2-propanol,30,20,0.666666667,0.998,23,CF,0
+318,10.3311/PPch.12719,2018,Periodica Polytechnica Chemical Engineering,PBI,PBI,,,,,,,,"(S,S)-2 amphorsulfon-amide-based organocatalyst",None,0.5,Tetrahydrofuran,30,80,2.666666667,0.95,23,CF,0
+319,10.1002/cctc.201500902,2015,Wiley Online Library ,DM200,DM200,,200,59,-20,0,0,,Quinine-based Catalyst 3a,None,0.5,Ethanol,30,24.2,0.806666667,0.97,23,CF,0
+320,10.1002/cctc.201500902,2015,Wiley Online Library ,DM200,DM200,,200,59,-20,0,0,,Quinine-based Catalyst 3b,None,0.5,Ethanol,30,24.9,0.83,0.98,23,CF,0
+321,10.1002/cctc.201500902,2015,Wiley Online Library ,DM200,DM200,,200,59,-20,0,0,,Quinine-based Catalyst 3c,None,0.5,Ethanol,30,25.2,0.84,0.99,23,CF,0
+322,10.1002/cctc.201500902,2015,Wiley Online Library ,DM300,DM300,,300,59,-37.5,0,0,,Quinine-based Catalyst 3a,None,0.5,Ethanol,30,30.6,1.02,0.95,23,CF,0
+323,10.1002/cssc.202000453,2020,ChemSusChem,,GMT-oNF-1,,,,,,,,TEMPO,None,0.5,Acetonitrile,30,,0.22,0.29,20,CF,0
+324,10.1002/cssc.202000453,2020,ChemSusChem,,SS336,,,,,,,,TEMPO,None,0.5,Acetonitrile,30,,0.32,0.63,20,CF,0
+325,10.1002/cssc.202000453,2020,ChemSusChem,,DM300,,,,,,,,TEMPO,None,0.5,Acetonitrile,30,,0.73,0.7,20,CF,0
+326,10.1002/cssc.202000453,2020,ChemSusChem,,GMT-oNF-1,,,,,,,,TEMPO-Hub,None,0.5,Acetonitrile,30,,0.22,0.94,20,CF,0
+327,10.1002/cssc.202000453,2020,ChemSusChem,,SS336,,,,,,,,TEMPO-Hub,None,0.5,Acetonitrile,30,,0.32,0.98,20,CF,0
+328,10.1002/cssc.202000453,2020,ChemSusChem,,DM300,,,,,,,,TEMPO-Hub,None,0.5,Acetonitrile,30,,0.73,0.99,20,CF,0
+329,10.1016/0304-5102(77)85013-X,1977,Journal of Molecular Catalysis,,Polyimide,,,,,,,Polyimide,Cobalt octacarbonyl,N/A,0.5,Benzene,71,,,0.84,200,DE,1
+330,10.1016/j.cattod.2010.04.024,2010,Catalysis today ,SM228,SM228,,280,,,,,,Hoveyda catalyst 2 immobilized in [bmim][PF6],N/A,0.5,1-butyl-3-methylimidazolium hexafluorophosphate,,,,0.99,35,DE,1
+331,MPG/Msthesis,,,POL-oNf-M1_1,POL-oNF-M1,,,,,,,,Rh(acac)(CO)₂ and BIPHEPHOS,N/A,0.5,Toluene,20,,,0.81,21,CF,1
+332,MPG/Msthesis,,,POL-oNf-M1_1,POL-oNF-M1,,,,,,,,BIPHEPHOS,N/A,0.5,Toluene,20,,,0.83,21,CF,1
+333,10.1021/acs.iecr.6b04249,,,POL-oNf-M1_1,POL-oNF-M1,,400,,,,,PDMS,Rh(acac)(CO)₂ and BIPHEPHOS,N/A,0.5,n-decane,20,,1.015,0.81,25,CF,1
+334,10.1002/jctb.6109,2019,Journal of Chemical Technology & Biotechnology ,0.9 nm TiO2 - Inopor,Inopor,,450,,,,,,Hoveyda-Grubbs Catalyst® M700,N/A,0.5,Dichloromethane,20,10,0.5,0.63,23,CF,1
+335,10.1021/ja005774u,2001,American Chemical Society ,Koch MPF - 60 ,Koch MPF - 60 ,,400,,,,,,[(3)Pd(crotyl)Cl],N/A,0.5,Dichloromethane,,,,0.97,25,CF,1
+336,10.1021/ja005774u,2001,American Chemical Society ,Koch MPF - 60 ,Koch MPF - 60 ,,400,,,,,,[(3)Pd(crotyl)Cl]32,N/A,0.5,Dichloromethane,,,,0.99,25,CF,1
+337,10.1039/D1CY02317A,2022,Catalysis science and technology ,DM500,DM500,,500,,,,,,phosphotungstic acid  ,N/A,0.5,Acetonitrile ,40,,,0.7,40,CF,1
+338,10.1039/D1CY02317A,2022,Catalysis science and technology ,NanoproS3012 ,NanoproS3012 ,,,,,,,,phosphotungstic acid,N/A,0.5,Acetonitrile ,40,,,0.94,40,CF,1
+339,10.1021/op000111i,2001,ACS Publications ,MPF50,MPF50,,700,-1,0,1,1,,Methyloxazaborolidine−Polystyrene - see SMILE comment ,N/A,0.5,Tetrahydrofuran,,,,0.9994,27,CF,1
+340,10.1021/op000111i,2001,ACS Publications ,MPF50,MPF50,,700,-1,0,1,1,,Methyloxazaborolidine−Polysiloxane,N/A,0.5,Tetrahydrofuran,,,,0.985,27,CF,1
+341,10.1039/A904455H ,1999,Royal Society of Chemistry,MPF60,MPF60,,400,,,,,,Second generation dendrimer ,N/A,0.5,Tetrahydrofuran,,,,0.981,27,,1
+342,10.1016/S0040-4039(01)01734-8,2001,Elsevier,GraceSRNF,GraceSRNF,,,,,,,,Pd(OAc)2(PPh3)2,N/A,0.5,Ethyl acetate ,30,32.3,1.076666667,0.9,20,CF,1
+343,10.1016/S0040-4039(01)01734-8,2001,Elsevier,GraceSRNF,GraceSRNF,,,,,,,,P(o-tolyl)3,N/A,0.5,Ethyl acetate ,30,32.3,1.076666667,0.88,20,CF,1
+344,10.1016/S0040-4039(01)01734-8,2001,Elsevier,GraceSRNF,GraceSRNF,,,,,,,,Pd(OAc)2(PPh3)2,N/A,0.5,methyl-tert-butyl ether/ acetone,30,11.3,0.376666667,0.96,20,CF,1
+345,10.1016/S0040-4039(01)01734-8,2001,Elsevier,GraceSRNF,GraceSRNF,,,,,,,,P(o-tolyl)3,N/A,0.5,methyl-tert-butyl ether/ acetone,30,11.3,0.376666667,0.97,20,CF,1
+346,10.1016/S0040-4039(01)01734-8,2001,Elsevier,GraceSRNF,GraceSRNF,,,,,,,,Pd(OAc)2(PPh3)2,N/A,0.5,Tetrahydrofuran,30,45.8,1.526666667,0.96,20,CF,1
+347,10.1016/S0040-4039(01)01734-8,2001,Elsevier,GraceSRNF,GraceSRNF,,,,,,,,P(o-tolyl)3,N/A,0.5,Tetrahydrofuran,30,45.8,1.526666667,0.98,20,CF,1
+348,10.1002/anie.199606421,1996,Wiley Online Library ,Hoechst Nadir UF PA20,Hoechst Nadir UF PA20,,,,,,,,"a,a-diphenyl-prolin",N/A,0.5,n-Hexane,,,,0.998,,,1
+349,10.1016/S0957-4166(98)00011-1,1998,Elsevier ,MPF50,MPF50,,700,-1,0,1,1,,oxazaborolidine,N/A,0.5,Tetrahydrofuran,,,,1,20,CF,1
+350,10.1039/B103645A,2001,Royal Society of Chemistry,SM122,SM122,,220,-1,0,1,1,,tetraoctylammonium bromide (TOABr),N/A,0.5,Toluene,,25,,0.99,20,CF,1
+351,10.1002/smll.202405285,2024,Wiley Online Library ,PEDOT:PSS,PEDOT-PSS,,300,,,,,,Ir(dtbbpy)(ppy)2[PF6],N/A,0.5,Methanol,6,4.7,0.783333333,0.904,30,CF,1
+352,10.1002/chem.200500251,2005,Wiley Online Library ,PDMS-USY-PAN,PDMS-USY-PAN,,,,,,,,Catalyst 5 (Scheme 1),N/A,0.5,Chloroform,30,,,0.95,20,CF,1
+353,10.1002/chem.200500251,2005,Wiley Online Library ,MPF50,MPF50,,700,-1,0,1,1,,Catalyst 1  (Figure 1),N/A,0.5,Chloroform,30,,,0.05,20,CF,1
+354,10.1002/chem.200500251,2005,Wiley Online Library ,MPF50,MPF50,,700,-1,0,1,1,,Catalyst 5 (Scheme 1),N/A,0.5,Chloroform,30,,,0.4,20,CF,1
+355,10.1002/chem.200500251,2005,Wiley Online Library ,MPF50,MPF50,,700,-1,0,1,1,,Catalyst 8 (Scheme 1) ,N/A,0.5,Chloroform,30,,,0.55,20,CF,1
+356,10.1002/chem.200500251,2005,Wiley Online Library ,PDMS,PDMS,,,,,,,,Catalyst 1  (Figure 1),N/A,0.5,2-propanol,30,,,0.57,20,CF,1
+357,10.1002/chem.200500251,2005,Wiley Online Library ,PDMS,PDMS,,,,,,,,Catalyst 5 (Scheme 1),N/A,0.5,2-propanol,30,,,0.99,20,CF,1
+358,10.1002/chem.200500251,2005,Wiley Online Library ,PDMS,PDMS,,,,,,,,Catalyst 7 (Scheme 1),N/A,0.5,2-propanol,30,,,0.96,20,CF,1
+359,10.1002/chem.200500251,2005,Wiley Online Library ,PDMS,PDMS,,,,,,,,Catalyst 8 (Scheme 1) ,N/A,0.5,2-propanol,30,,,0.96,20,CF,1
+360,10.1038/s41467-022-33821-9,2022,Nature ,NF030306,SS336,,500,82,0,0,1,,tetrabutylammonium decatungstate (TBADT),N/A,0.5,Acetonitrile ,14,4.3,0.307142857,0.999,23,CF,1
+361,10.1038/s41467-022-33821-9,2022,Nature ,NF080105,SS815,,,,,,,,tetrabutylammonium decatungstate (TBADT),N/A,0.5,Acetonitrile ,14,24.8,1.771428571,0.689,23,CF,1
+362,10.1038/s41467-022-33821-9,2022,Nature ,PuraMem Selective,PMSelective,,,,,,,,tetrabutylammonium decatungstate (TBADT),N/A,0.5,Acetonitrile ,14,31.2,2.228571429,0.801,23,CF,1
+363,10.1016/j.jcat.2019.01.041,2019,Elsevier ,NF030306,SS336,,500,82,0,0,1,,Cinchona CD-2  (Scheme 1 ),N/A,0.5,2-MeTHF,10,10.3,1.03,0.999,50,CF,1
+364,10.1016/j.jcat.2019.01.041,2019,Elsevier ,NF010306,SS136,,,,,,,,Cinchona CD-2  (Scheme 1 ),N/A,0.5,2-MeTHF,10,19.8,1.98,0.999,50,CF,1
+365,10.1016/j.jcat.2019.01.041,2019,Elsevier ,GMT-oNF1,GMT-oNF-1,,600,,,,,,Cinchona CD-2  (Scheme 1 ),N/A,0.5,2-MeTHF,10,35.1,3.51,0.98,50,CF,1
+366,10.1016/j.jcat.2019.01.041,2019,Elsevier ,DM300,DM300,,300,59,-37.5,0,0,,Cinchona CD-2  (Scheme 1 ),N/A,0.5,2-MeTHF,10,1.3,0.13,0.98,50,CF,1
+367,10.1016/j.jcat.2019.01.041,2019,Elsevier ,PS600,DM500,,600,-1,0,1,1,,Cinchona CD-2  (Scheme 1 ),N/A,0.5,2-MeTHF,10,26.2,2.62,0.98,50,CF,1
+368,10.1016/j.jcat.2019.01.041,2019,Elsevier ,DM900,DM900,,,,,,,,Cinchona CD-2  (Scheme 1 ),N/A,0.5,2-MeTHF,10,42.7,4.27,0.97,50,CF,1
+369,10.1039/D0GC00498G,2020,Royal Society of Chemistry,PuraMem Selective,PMSelective,,,,,,,,Au complex 3,N/A,0.5,Tetrahydrofuran,10,146.5,14.65,0.728,25,CF,0
+370,10.1039/d4gc06334a,2025,Royal Society of Chemistry,PuraMem Selective,PMSelective,,,,,,,,Pd(dba)2,N/A,0.5,2-Methyltetrahydrofuran,20,14,0.7,0.969,23,CF,0
+371,10.1039/d4gc06334a,2025,Royal Society of Chemistry,PuraMem Selective,PMSelective,,,,,,,,Xantphos ,N/A,0.5,2-Methyltetrahydrofuran,20,14,0.7,0.97,23,CF,0
+372,10.1039/d4gc06334a,2025,Royal Society of Chemistry,PMFlux,PMFlux,,200,-1,0,1,1,,Pd(dba)2,N/A,0.5,2-Methyltetrahydrofuran,20,138,6.9,0.965,23,CF,0
+373,10.1039/d4gc06334a,2025,Royal Society of Chemistry,PMFlux,PMFlux,,200,-1,0,1,1,,Xantphos ,N/A,0.5,2-Methyltetrahydrofuran,20,138,6.9,0.955,23,CF,0
+374,10.1039/B312580G/ 10.1016/j.memsci.2006.01.025,2004,Royal Society of Chemistry,TFC-SR2,TFC-SR2,,,,,,,,Co-Jacobsen ,N/A,0.5,Diethyl ether ,5,0.25,0.05,0.82,20,CF,0
+375,10.1039/D4CY01148A,2025,Royal Society of Chemistry ,PMSelective,PMSelective,,200,-1,0,1,1,,Rh(BIPHEPHOS),N/A,0.5,Toluene-Octene-mix,40,69.6,1.74,0.99,40,CF,0
+376,10.1039/D4CY01148A,2025,Royal Society of Chemistry ,PMSelective,PMSelective,,200,-1,0,1,1,,BIPHEPHOS,N/A,0.5,Toluene-Octene-mix,40,69.6,1.74,0.98,40,CF,0

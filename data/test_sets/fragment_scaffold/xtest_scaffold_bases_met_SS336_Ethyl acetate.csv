@@ -1,0 +1,11 @@
+membrane,solvent,solute_smiles,secondary_solute_smiles,secondary_solute_ratio,pressure,temperature,permeance,process_configuration
+SS336,Ethyl acetate,C(C=C12)=CC=C1C(C=CC=C3)=[N]3[Ir]452([N]6=C(C=CC=C6)C7=CC=CC=C75)[N](C=CC=C8)=C8C9=CC=CC=C94,C(C=C12)=CC=C1C(C=CC=C3)=[N]3[Ir]452([N]6=C(C=CC=C6)C7=CC=CC=C75)[N](C=CC=C8)=C8C9=CC=CC=C94,0.5,30,25,1.0,CF
+SS336,Ethyl acetate,CC(C)(C1=CC=[N](C(C2=[N]3C=CC(C(C)(C)C)=C2)=C1)[Ir+]453(C6=C(C7=CC=CC=[N]75)C=CC=C6)[N]8=C(C=CC=C8)C9=C4C=CC=C9)C.F[P-](F)(F)(F)(F)F,CC(C)(C1=CC=[N](C(C2=[N]3C=CC(C(C)(C)C)=C2)=C1)[Ir+]453(C6=C(C7=CC=CC=[N]75)C=CC=C6)[N]8=C(C=CC=C8)C9=C4C=CC=C9)C.F[P-](F)(F)(F)(F)F,0.5,30,25,1.0,CF
+SS336,Ethyl acetate,F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.n1([Ru+2]23(n4ccccc4c5ccccn53)(n6ccccc67)n8ccccc8c9ccccn29)c7cccc1,F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.n1([Ru+2]23(n4ccccc4c5ccccn53)(n6ccccc67)n8ccccc8c9ccccn29)c7cccc1,0.5,30,25,1.0,CF
+SS336,Ethyl acetate,CC(Oc1c(C=[Ru](Cl)(Cl)=C2N(c3c(C)cc(C)cc3C)CCN2c4c(C)cc(C)cc4C)cccc1)C,CC(Oc1c(C=[Ru](Cl)(Cl)=C2N(c3c(C)cc(C)cc3C)CCN2c4c(C)cc(C)cc4C)cccc1)C,0.5,30,25,1.0,CF
+SS336,Ethyl acetate,O=[C][Co]([C]=O)([P](C1CCCCC1)(C2CCCCC2)C3CCCCC3)[C]=O,O=[C][Co]([C]=O)([P](C1CCCCC1)(C2CCCCC2)C3CCCCC3)[C]=O,0.5,30,25,1.0,CF
+SS336,Ethyl acetate,O=[C][Co]([PH3])([C]=O)[C]=O,O=[C][Co]([PH3])([C]=O)[C]=O,0.5,30,25,1.0,CF
+SS336,Ethyl acetate,Cl[Ru](Cl)([PH3])([PH3])=Cc1ccccc1,Cl[Ru](Cl)([PH3])([PH3])=Cc1ccccc1,0.5,30,25,1.0,CF
+SS336,Ethyl acetate,O=C[Rh]([PH3])([PH3])([PH3])[H],O=C[Rh]([PH3])([PH3])([PH3])[H],0.5,30,25,1.0,CF
+SS336,Ethyl acetate,c1([P](c2ccccc2)([Pd][P](c3ccccc3)(c4ccccc4)c5ccccc5)c6ccccc6)ccccc1,c1([P](c2ccccc2)([Pd][P](c3ccccc3)(c4ccccc4)c5ccccc5)c6ccccc6)ccccc1,0.5,30,25,1.0,CF
+SS336,Ethyl acetate,O=C(O[Pd]1(OC(C)=O)[PH2](CCC[PH2]1))C,O=C(O[Pd]1(OC(C)=O)[PH2](CCC[PH2]1))C,0.5,30,25,1.0,CF

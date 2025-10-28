@@ -1,0 +1,12 @@
+[H][C@]1(C[C@@H]2CC[N@]1C[C@@H]2C=C)[C@H](O)c(ccn3)c4c3ccc(OC)c4
+CCCC[N+](CCCC)(CCCC)CCCC
+NC1CCCCC1
+CN(c1ccncc1)C
+Oc(c1c2c(O)ccc3c2cccc3)ccc4c1cccc4
+N#Cc1c(n2c3ccccc3c4ccccc24)c(C#N)c(n(c5c6cccc5)c7c6cccc7)c(n(c8c9cccc8)c%10c9cccc%10)c1n(c%11c%12cccc%11)c%13c%12cccc%13
+C[n+](c(cccc1)c1c2c3c(C)cc(C)cc3C)c4c2cccc4
+C1OCCOCCOCCOCCOCCOC1
+Oc1ccc(C2(c3ccc(O)cc3O4)c5c(C(O2)=O)cccc5)c4c1
+c12c(OCCOCCOc3c(OCCOCCO2)cccc3)cccc1
+CN(C)CCN(C)C
+Ic1c(O[Na])c(I)cc2c1OC3C(C(C(I)=CC3=C2c4c(Cl)c(Cl)c(Cl)c(Cl)c4C(O[Na])=O)=O)I

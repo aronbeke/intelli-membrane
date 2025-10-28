@@ -1,0 +1,10 @@
+solute_category,membrane,solvent,solute_smiles,pressure,temperature,process_configuration,permeance,substructure_smarts
+ligand,GMT-oNF-2,Acetonitrile,CC1(C)c2cccc(P(c3ccccc3)c4ccccc4)c2Oc5c(P(c6ccccc6)c7ccccc7)cccc15,30,25,CF,0.153,P(c1ccccc1)(c2ccccc2)c3ccccc3
+ligand,GMT-oNF-2,Acetonitrile,c1(P(c2ccccc2)c3ccccc3)ccccc1,30,25,CF,0.153,P(c1ccccc1)(c2ccccc2)c3ccccc3
+ligand,GMT-oNF-2,Acetonitrile,O=S(c1cccc(P(c2cc(S(=O)([O-])=O)ccc2)c3cc(S(=O)([O-])=O)ccc3)c1)([O-])=O,30,25,CF,0.153,P(c1ccccc1)(c2ccccc2)c3ccccc3
+ligand,GMT-oNF-2,Acetonitrile,P(c(c1c2c(P(c3ccccc3)c4ccccc4)ccc5c2cccc5)ccc6c1cccc6)(c7ccccc7)c8ccccc8,30,25,CF,0.153,P(c1ccccc1)(c2ccccc2)c3ccccc3
+ligand,GMT-oNF-2,Acetonitrile,C1(P(C2CCCCC2)C3CCCCC3)CCCCC1,30,25,CF,0.153,C1(P(C2CCCCC2)C3CCCCC3)CCCCC1
+ligand,GMT-oNF-2,Acetonitrile,CC(C)(C)P(C(C)(C)C)Nc1cccc(c2ncccc2)n1,30,25,CF,0.153,c1(c2ncccc2)ncccc1
+ligand,GMT-oNF-2,Acetonitrile,c1(NP(c2ccccc2)c3ccccc3)nc(NP(c4ccccc4)c5ccccc5)ccc1,30,25,CF,0.153,[NH]c1nc([NH])ccc1
+ligand,GMT-oNF-2,Acetonitrile,CC(C)(C)P(C(C)(C)C)Nc1cccc(NP(c2ccccc2)c3ccccc3)n1,30,25,CF,0.153,[NH]c1nc([NH])ccc1
+ligand,GMT-oNF-2,Acetonitrile,CC(C)(C)P(C(C)(C)C)Nc1nc(NP(C(C)(C)C)C(C)(C)C)ccc1,30,25,CF,0.153,[NH]c1nc([NH])ccc1

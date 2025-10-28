@@ -1,0 +1,11 @@
+membrane,solvent,solute_smiles,secondary_solute_smiles,secondary_solute_ratio,pressure,temperature,permeance,process_configuration
+SS336,Toluene,Oc1c(Cc2cccc(C3)c2O)cccc1Cc4c(O)c(Cc5c(O)c3ccc5)ccc4,Oc1c(Cc2cccc(C3)c2O)cccc1Cc4c(O)c(Cc5c(O)c3ccc5)ccc4,0.5,30,25,0.798,CF
+SS336,Toluene,C[n+]1c2ccccc2cc3ccccc13.O=Cl(=O)([O-])=O,C[n+]1c2ccccc2cc3ccccc13.O=Cl(=O)([O-])=O,0.5,30,25,0.798,CF
+SS336,Toluene,O=c(c(N)c1N)c1=O,O=c(c(N)c1N)c1=O,0.5,30,25,0.798,CF
+SS336,Toluene,CC1(C)C2(CCC1CC2=O)CS(Nc3ncccc3)(=O)=O,CC1(C)C2(CCC1CC2=O)CS(Nc3ncccc3)(=O)=O,0.5,30,25,0.798,CF
+SS336,Toluene,Oc(cc1)c(c2c(O)ccc3c2cccc3)c4c1cccc4,Oc(cc1)c(c2c(O)ccc3c2cccc3)c4c1cccc4,0.5,30,25,0.798,CF
+SS336,Toluene,O=c(c(OC)c1Nc2ccccc2)c1=O,O=c(c(OC)c1Nc2ccccc2)c1=O,0.5,30,25,0.798,CF
+SS336,Toluene,c1cccnc1,c1cccnc1,0.5,30,25,0.798,CF
+SS336,Toluene,[H][C@]1(C[C@@H]2CC[N@]1C[C@@H]2C=C)Cc3c4cc(OC)ccc4ncc3,[H][C@]1(C[C@@H]2CC[N@]1C[C@@H]2C=C)Cc3c4cc(OC)ccc4ncc3,0.5,30,25,0.798,CF
+SS336,Toluene,COC[C@H]1NCCC1,COC[C@H]1NCCC1,0.5,30,25,0.798,CF
+SS336,Toluene,O=C1NCCN1,O=C1NCCN1,0.5,30,25,0.798,CF

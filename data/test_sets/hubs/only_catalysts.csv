@@ -1,0 +1,7 @@
+catalyst_smiles,solute_category
+NC(C=C1)=CC2=C1OCCOCCOC(C=CC=C3)=C3OCCOCCO2,organocatalyst
+COC1=CC2=C([C@H](NC(C3=O)=C(OC)C3=O)[C@H]4[N@@](CC5)C[C@H](CC)[C@@H]5C4)C=CN=C2C=C1,organocatalyst
+P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3,ligand
+Cl[Pd]12C3=C(C[P](C4=CC=CC=C4)2C5=CC=CC=C5)C=C(OC)C=C3C[P](C6=CC=CC=C6)1C7=CC=CC=C7,metal_catalyst
+CC1=CC=[N]([Ru]23([N]4=C(C5=CC=CC=[N]53)C=CC=C4)6[N]7=CC=CC=C7C8=[N]2C=CC=C8)C(C9=[N]6C=CC(C)=C9)=C1,metal_catalyst
+CC1=CC(C)=CC(C)=C1N2CCN(C3=C(C)C=C(C)C=C3C)C2[Ru]4(Cl)(Cl)=CC5=CC(O)=CC=C5O4C(C)C,metal_catalyst

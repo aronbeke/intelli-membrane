@@ -1,0 +1,13 @@
+n1([Ru+2]23(n4c5c(n3ccc6)c6ccc5ccc4)7n8cccc9ccc%10cccn2c%10c89)cccc%11ccc%12cccn7c%12c1%11
+Br[Mn]12([NH](CC[P](C(C)C)2C(C)C)CC[P](C(C)C)1C(C)C)(C=O)C=O
+n12ccccc1c3ccccn3[Ru+2]245(n6c(c7n5cccc7)cccc6)n8c(c9ccccn94)cccc8
+CC(O[Pd]OC(C)=O)=O
+Cl[Ni]12[N]3=C(N[P]2(c4ccccc4)c5ccccc5)C=CC=C3N[P]1(c6ccccc6)c7ccccc7
+CC(C)(C)C1=CC=[N]([Ir+]23([N]4=C(C5=C3C=C(F)C=C5F)C=CC(C(F)(F)F)=C4)6C(C=C(C(F)(F)F)C=C7)=C7C8=C(F)C=C(F)C=[N]82)C(C9=[N]6C=CC(C(C)(C)C)=C9)=C1
+CC(C)(C)C1=CC(C2=[N]3C=CC(C(C)(C)C)=C2)=[N]([Ir+]453([N]6=C(C7=C5C=CC=C7)C=CC=C6)C8=CC=CC=C8C9=CC=CC=[N]94)C=C1
+CC(C1=CC=C(C2=[N]([Ir+]345([N]6=CC=CC=C6C7=[N]5C=CC=C7)C8=C(C9=[N]4C=CC=C9)C=CC(C(C)(C)C)=C8)C=CC=C2)C3=C1)(C)C
+Fc1cc2c(c3c([Ir+]245(n6cccc(F)c6c7cc(C(C)(C)C)ccn75)n8c(c9c(F)cccn94)cc(C(C)(C)C)cc8)cc(F)cc3F)c(F)c1
+CC(c1cc(C=[N]2[C@H]3CCCC[C@@H]3[N]4=Cc5cc(C(C)(C)C)cc(C(C)(C)C)c5O[Mn]42(Cl)O6)c6c(C(C)(C)C)c1)(C)C
+FC1=CC=C(C2=[N]([Ir+]345([N]6=CC=C(C(C)(C)C)C=C6C7=[N]5C=CC(C(C)(C)C)=C7)C8=C(C9=[N]4C=CC=C9)C=CC(F)=C8)C=CC=C2)C3=C1
+C1(C2=CC=CC=C23)=[N]([Ir]345([N]6=C(C7=CC=CC=C75)C=CC=C6)[N]8=C(C9=CC=CC=C94)C=CC=C8)C=CC=C1
+CCCCCCCC[P](CCCCCCCC)(CCCCCCCC)[Co]([C]=O)([C]=O)[C]=O

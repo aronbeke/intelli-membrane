@@ -1,0 +1,24 @@
+﻿id,doi,membrane,ligand_name,complex_name,solvent,pressure,permeance,compex_rejection,ligand_rejection,temperature,process_configuration,membrane_configuration
+1,10.1039/D4CY01148A,SS315,BIPHEPHOS,Rh(BIPHEPHOS),Toluene-Octene-mix,40,2.89,98,98,40,CF,FS
+2,10.1039/D4CY01148A,PMS600,BIPHEPHOS,Rh(BIPHEPHOS),Toluene-Octene-mix,40,1.45,84,84,41,CF,FS
+3,10.1039/D4CY01148A,PM280,BIPHEPHOS,Rh(BIPHEPHOS),Toluene-Octene-mix,40,1.16,95,94,42,CF,FS
+4,10.1039/D4CY01148A,PM,BIPHEPHOS,Rh(BIPHEPHOS),Toluene-Octene-mix,40,1.74,99,98,43,CF,FS
+5,10.1039/D4CY01148A,GMT-oNF-2,BIPHEPHOS,Rh(BIPHEPHOS),Toluene-Octene-mix,40,2.32,87,81,44,CF,FS
+6,10.3303/CET1647058/ 10.1002/cctc.201601018,GMT-oNF-2,BIPHEPHOS,Rh(BIPHEPHOS),Toluene-Dodecene-mix,30,2,97,98,25,CF,FS
+7,10.3303/CET1647058/ 10.1002/cctc.201601018,GMT-oNF-2,TPP,Rh(TPP),Toluene-Dodecene-mix,30,2,94,66,25,CF,FS
+8,10.3303/CET1647058/ 10.1002/cctc.201601018,GMT-oNF-2,Xantphos,Rh(Xantphos)acac,Toluene-Dodecene-mix,30,2,97,95,25,CF,FS
+9,10.1039/d4gc06334a,GMT-oNF-1,Xantphos ,Pd(Xantphos)acac,2-Methyltetrahydrofuran,20,3.9,100,99.6,23,CF,FS
+10,10.1039/d4gc06334a,GMT-oNF-2,Xantphos ,Pd(Xantphos)acac,2-Methyltetrahydrofuran,20,4.3,98.5,97.2,23,CF,FS
+11,10.1039/d4gc06334a,GMT-oNF-3,Xantphos ,Pd(Xantphos)acac,2-Methyltetrahydrofuran,20,9.5,95.1,91,23,CF,FS
+12,10.1039/d4gc06334a,PMSelective,Xantphos ,Pd(Xantphos)acac,2-Methyltetrahydrofuran,20,0.7,96.9,97,23,CF,FS
+13,10.1039/d4gc06334a,PMPerformance,Xantphos ,Pd(Xantphos)acac,2-Methyltetrahydrofuran,20,1.8,98.3,97.3,23,CF,FS
+14,10.1039/d4gc06334a,PMFlux,Xantphos ,Pd(Xantphos)acac,2-Methyltetrahydrofuran,20,6.9,96.5,95.5,23,CF,FS
+15,10.1039/d4gc06334a,SS126,Xantphos ,Pd(Xantphos)acac,2-Methyltetrahydrofuran,20,0.9,93.2,92.9,23,CF,FS
+19,10.1021/acs.iecr.7b03770,PEEK,DPPB,Pd(DPPB),Toluene,10,0.002964,90,73,100,CF,FS
+20,10.1002/cplu.201900553,PV46,BIPHEPHOS,Rh(BIPHEPHOS),Toluene,10,2.4,90,88,27,CF,FS
+21,10.1016/j.cep.2015.07.019,GMT-oNF-2,BIPHEPHOS,Rh(BIPHEPHOS),Toluene-Nonanal-mix,20,2.03,99,97,5,CF,FS
+22,10.1016/j.cep.2015.07.019,GMT-oNF-2,Xantphos,Rh(Xantphos)acac,Toluene-Nonanal-mix,20,2.03,99,98,5,CF,FS
+23,10.1016/j.cep.2015.07.019,GMT-oNF-2,TPP,Rh(TPP),Toluene-Nonanal-mix,20,2.03,95,80,5,CF,FS
+21,10.1016/j.cep.2015.07.019,GMT-oNF-2,BIPHEPHOS,Rh(BIPHEPHOS),Toluene-Tridecanal-mix,20,2.03,95,98,5,CF,FS
+22,10.1016/j.cep.2015.07.019,GMT-oNF-2,Xantphos,Rh(Xantphos)acac,Toluene-Tridecanal-mix,20,2.03,95,92,5,CF,FS
+23,10.1016/j.cep.2015.07.019,GMT-oNF-2,TPP,Rh(TPP),Toluene-Tridecanal-mix,20,2.03,93,61,5,CF,FS

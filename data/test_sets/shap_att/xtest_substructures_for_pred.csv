@@ -1,0 +1,10 @@
+membrane,solvent,solute_smiles,pressure,temperature,process_configuration,permeance
+GMT-oNF-2,Acetonitrile,P(c1ccccc1)(c2ccccc2)c3ccccc3,30,25,CF,0.153
+GMT-oNF-2,Acetonitrile,C1(CCCCC1)P(C2CCCCC2)C3CCCCC3,30,25,CF,0.153
+GMT-oNF-2,Acetonitrile,c12ccccc1c3ccccc3N2,30,25,CF,0.153
+GMT-oNF-2,Acetonitrile,CC12CC3CC(CC(C2)C3)C1,30,25,CF,0.153
+GMT-oNF-2,Acetonitrile,c1(N2CCN(C2)c3ccccc3)ccccc1,30,25,CF,0.153
+GMT-oNF-2,Acetonitrile,c1(c2ncccc2)ncccc1,30,25,CF,0.153
+GMT-oNF-2,Acetonitrile,c1(c2ccccc2)ccccn1,30,25,CF,0.153
+GMT-oNF-2,Acetonitrile,C=CC1C[N@@]2CC[C@H]1CC2,30,25,CF,0.153
+GMT-oNF-2,Acetonitrile,Nc1cccc(N)n1,30,25,CF,0.153

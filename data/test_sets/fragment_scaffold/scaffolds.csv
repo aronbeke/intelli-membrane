@@ -1,0 +1,21 @@
+﻿scaffold_smarts,scaffold_basis,dummy_places,type,name
+[*]C(C=C12)=CC=C1C(C=CC=C3)=[N]3[Ir]452([N]6=C(C=CC=C6)C7=CC=C([*])C=C75)[N](C=CC=C8)=C8C9=CC=C([*])C=C94,C(C=C12)=CC=C1C(C=CC=C3)=[N]3[Ir]452([N]6=C(C=CC=C6)C7=CC=CC=C75)[N](C=CC=C8)=C8C9=CC=CC=C94,3,metal_catalyst,Ir-complex 1
+CC(C)(C1=CC=[N](C(C2=[N]3C=CC(C(C)(C)C)=C2)=C1)[Ir+]453(C6=C(C7=CC=CC=[N]75)C=CC([*])=C6)[N]8=C(C=CC=C8)C9=C4C=C([*])C=C9)C.F[P-](F)(F)(F)(F)F,CC(C)(C1=CC=[N](C(C2=[N]3C=CC(C(C)(C)C)=C2)=C1)[Ir+]453(C6=C(C7=CC=CC=[N]75)C=CC=C6)[N]8=C(C=CC=C8)C9=C4C=CC=C9)C.F[P-](F)(F)(F)(F)F,2,metal_catalyst,Ir-complex 2
+F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.[*]c1cn([Ru+2]2(n3c4cccc3)(n5c(c6n2cc([*])cc6)cccc5)(n7c8cccc7)n9c4ccc([*])c9)c8cc1,F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.n1([Ru+2]23(n4ccccc4c5ccccn53)(n6ccccc67)n8ccccc8c9ccccn29)c7cccc1,3,metal_catalyst,Ru-complex 1
+CC(Oc1c(C=[Ru](Cl)(Cl)=C2N(c3c(C)c([*])c(C)c([*])c3C)CCN2c4c(C)c([*])c(C)c([*])c4C)cccc1)C,CC(Oc1c(C=[Ru](Cl)(Cl)=C2N(c3c(C)cc(C)cc3C)CCN2c4c(C)cc(C)cc4C)cccc1)C,4,metal_catalyst,Ru-complex 2
+O=[C][Co]([C]=O)([P](C1CCC([*])CC1)(C2CCC([*])CC2)C3CCC([*])CC3)[C]=O,O=[C][Co]([C]=O)([P](C1CCCCC1)(C2CCCCC2)C3CCCCC3)[C]=O,3,metal_catalyst,Co-complex 1
+O=[C][Co]([C]=O)([P]([*])([*])[*])[C]=O,O=[C][Co]([PH3])([C]=O)[C]=O,3,metal_catalyst,Co-complex 2
+Cl[Ru](Cl)([P]([*])([*])[*])([P]([*])([*])[*])=Cc1ccccc1,Cl[Ru](Cl)([PH3])([PH3])=Cc1ccccc1,6,metal_catalyst,Ru-complex 3
+O=C[Rh]([P]([*])([*])[*])([P]([*])([*])[*])([P]([*])([*])[*])[H],O=C[Rh]([PH3])([PH3])([PH3])[H],9,metal_catalyst,Rh-complex 1
+[*]c1ccc([P](c2ccc([*])cc2)([Pd][P](c3ccc([*])cc3)(c4ccc([*])cc4)c5ccc([*])cc5)c6ccc([*])cc6)cc1,c1([P](c2ccccc2)([Pd][P](c3ccccc3)(c4ccccc4)c5ccccc5)c6ccccc6)ccccc1,6,metal_catalyst,Pd-complex 1
+O=C(O[Pd]1(OC(C)=O)[P]([*])(CCC[P]1([*])[*])[*])C,O=C(O[Pd]1(OC(C)=O)[PH2](CCC[PH2]1))C,4,metal_catalyst,Pd-complex 2
+Oc1c(Cc2cc([*])cc(C3)c2O)cc([*])cc1Cc4c(O)c(Cc5cc([*])cc3c5O)cc([*])c4,Oc1c(Cc2cccc(C3)c2O)cccc1Cc4c(O)c(Cc5c(O)c3ccc5)ccc4,4,organocatalyst,calix-arene
+C[n+](c(cccc1)c1c2[*])c3c2cccc3.O=Cl(=O)([O-])=O,C[n+]1c2ccccc2cc3ccccc13.O=Cl(=O)([O-])=O,1,organocatalyst,acridinium
+O=c(c(N[*])c1N[*])c1=O,O=c(c(N)c1N)c1=O,2,organocatalyst,square amide
+[*]c1nc(NS(CC2(CCC3CC2=O)C3(C)C)(=O)=O)ccc1,CC1(C)C2(CCC1CC2=O)CS(Nc3ncccc3)(=O)=O,1,organocatalyst,amphorsulfon
+Oc(c([*])c1)c(c2c(O)c([*])cc3c2cccc3)c4c1cccc4,Oc(cc1)c(c2c(O)ccc3c2cccc3)c4c1cccc4,2,organocatalyst,binol
+O=c(c(OC)c1Nc2cc([*])cc([*])c2)c1=O,O=c(c(OC)c1Nc2ccccc2)c1=O,2,organocatalyst,square amide
+[*]c1ccncc1,c1cccnc1,1,organocatalyst,pyridine
+[H][C@@]1([C@@H](c(ccn2)c3c2ccc(OC)c3)[*])C[C@@H]4CC[N@]1C[C@@H]4C=C,[H][C@]1(C[C@@H]2CC[N@]1C[C@@H]2C=C)Cc3c4cc(OC)ccc4ncc3,1,organocatalyst,quinidine
+[*]C(OC)([*])[C@H]1NCCC1,COC[C@H]1NCCC1,2,organocatalyst,proline
+O=C1NC([*])CN1,O=C1NCCN1,1,organocatalyst,imidazolidinone

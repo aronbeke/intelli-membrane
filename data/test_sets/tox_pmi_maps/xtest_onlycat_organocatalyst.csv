@@ -1,0 +1,11 @@
+membrane,solvent,solute_smiles,secondary_solute_smiles,secondary_solute_ratio,pressure,temperature,permeance,process_configuration,solute_category
+GMT-oNF-2,Toluene,NC(C=C1)=CC2=C1OCCOCCOC(C=CC=C3)=C3OCCOCCO2,NC(C=C1)=CC2=C1OCCOCCOC(C=CC=C3)=C3OCCOCCO2,0.5,30,25,0.341,CF,organocatalyst
+GMT-oNF-2,Toluene,COC1=CC2=C([C@H](NC(C3=O)=C(OC)C3=O)[C@H]4[N@@](CC5)C[C@H](CC)[C@@H]5C4)C=CN=C2C=C1,COC1=CC2=C([C@H](NC(C3=O)=C(OC)C3=O)[C@H]4[N@@](CC5)C[C@H](CC)[C@@H]5C4)C=CN=C2C=C1,0.5,30,25,0.341,CF,organocatalyst
+PMPerformance,Toluene,NC(C=C1)=CC2=C1OCCOCCOC(C=CC=C3)=C3OCCOCCO2,NC(C=C1)=CC2=C1OCCOCCOC(C=CC=C3)=C3OCCOCCO2,0.5,30,25,0.717,CF,organocatalyst
+PMPerformance,Toluene,COC1=CC2=C([C@H](NC(C3=O)=C(OC)C3=O)[C@H]4[N@@](CC5)C[C@H](CC)[C@@H]5C4)C=CN=C2C=C1,COC1=CC2=C([C@H](NC(C3=O)=C(OC)C3=O)[C@H]4[N@@](CC5)C[C@H](CC)[C@@H]5C4)C=CN=C2C=C1,0.5,30,25,0.717,CF,organocatalyst
+SS336,Toluene,NC(C=C1)=CC2=C1OCCOCCOC(C=CC=C3)=C3OCCOCCO2,NC(C=C1)=CC2=C1OCCOCCOC(C=CC=C3)=C3OCCOCCO2,0.5,30,25,0.798,CF,organocatalyst
+SS336,Toluene,COC1=CC2=C([C@H](NC(C3=O)=C(OC)C3=O)[C@H]4[N@@](CC5)C[C@H](CC)[C@@H]5C4)C=CN=C2C=C1,COC1=CC2=C([C@H](NC(C3=O)=C(OC)C3=O)[C@H]4[N@@](CC5)C[C@H](CC)[C@@H]5C4)C=CN=C2C=C1,0.5,30,25,0.798,CF,organocatalyst
+DM300,Toluene,NC(C=C1)=CC2=C1OCCOCCOC(C=CC=C3)=C3OCCOCCO2,NC(C=C1)=CC2=C1OCCOCCOC(C=CC=C3)=C3OCCOCCO2,0.5,30,25,0.127,CF,organocatalyst
+DM300,Toluene,COC1=CC2=C([C@H](NC(C3=O)=C(OC)C3=O)[C@H]4[N@@](CC5)C[C@H](CC)[C@@H]5C4)C=CN=C2C=C1,COC1=CC2=C([C@H](NC(C3=O)=C(OC)C3=O)[C@H]4[N@@](CC5)C[C@H](CC)[C@@H]5C4)C=CN=C2C=C1,0.5,30,25,0.127,CF,organocatalyst
+SM122,Toluene,NC(C=C1)=CC2=C1OCCOCCOC(C=CC=C3)=C3OCCOCCO2,NC(C=C1)=CC2=C1OCCOCCOC(C=CC=C3)=C3OCCOCCO2,0.5,30,25,0.18,CF,organocatalyst
+SM122,Toluene,COC1=CC2=C([C@H](NC(C3=O)=C(OC)C3=O)[C@H]4[N@@](CC5)C[C@H](CC)[C@@H]5C4)C=CN=C2C=C1,COC1=CC2=C([C@H](NC(C3=O)=C(OC)C3=O)[C@H]4[N@@](CC5)C[C@H](CC)[C@@H]5C4)C=CN=C2C=C1,0.5,30,25,0.18,CF,organocatalyst

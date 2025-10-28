@@ -1,0 +1,11 @@
+,RMSE,MAE
+Acetonitrile,0.082,0.060
+Dimethylformamide,0.231,0.156
+Ethanol,0.146,0.104
+Ethyl acetate,0.200,0.165
+Methanol,0.047,0.045
+Petroleum ether,0.055,0.044
+Tetrahydrofuran,0.051,0.032
+Toluene,0.085,0.064
+overall,0.135,0.091
+hpo test,0.233,0.179

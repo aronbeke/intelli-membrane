@@ -1,0 +1,1 @@
+{"mpnn_val_rmse": 0.03054582141339779, "mpnn_val_mae": 0.023563222959637642, "mpnn_val_r2": 0.9990024566650391, "mpnn_val_rmse_original": 0.07828744500875473, "mpnn_val_mae_original": 0.0603913888335228, "mpnn_test_rmse": 0.0787809328149728, "mpnn_test_mae": 0.06038161487593324, "mpnn_test_r2": 0.9990537335819322}

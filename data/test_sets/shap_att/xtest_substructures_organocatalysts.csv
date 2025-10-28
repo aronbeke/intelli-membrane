@@ -1,0 +1,17 @@
+solute_category,membrane,solvent,solute_smiles,pressure,temperature,process_configuration,permeance,substructure_smarts
+organocatalyst,GMT-oNF-2,Acetonitrile,N#Cc1c(n2c3ccccc3c4ccccc24)c(C#N)c(n(c5c6cccc5)c7c6cccc7)c(n(c8c9cccc8)c%10c9cccc%10)c1n(c%11c%12cccc%11)c%13c%12cccc%13,30,25,CF,0.153,c12c(c3c([#7]2)cccc3)cccc1
+organocatalyst,GMT-oNF-2,Acetonitrile,N#Cc1c(n2c3ccccc3c4ccccc24)c(C#N)c(n5c6ccccc6c7ccccc57)c(Cl)c1n8c9ccccc9c%10ccccc8%10,30,25,CF,0.153,c12c(c3c([#7]2)cccc3)cccc1
+organocatalyst,GMT-oNF-2,Acetonitrile,[H][C@@]1([C@@H](c(ccn2)c3c2ccc(OC)c3)OC(C45CC6CC(CC(C5)C6)C4)=O)C[C@@H]7CC[N@]1C[C@@H]7C=C,30,25,CF,0.153,CC12CC3CC(C2)CC(C3)C1
+organocatalyst,GMT-oNF-2,Acetonitrile,c12cccnc1c3ccccc3cc2,30,25,CF,0.153,c1(c2ccccc2)ccccn1
+organocatalyst,GMT-oNF-2,Acetonitrile,[H][C@@]1([C@@H](c(ccn2)c3c2ccc(O)c3)OCc4cc(CO[C@@H]([C@]5([H])C[C@@H]6CC[N@]5C[C@@H]6C=C)c(ccn7)c8c7ccc(O)c8)cc(CO[C@@H]([C@]9([H])C[C@@H]%10CC[N@]9C[C@@H]%10C=C)c(ccn%11)c%12c%11ccc(O)c%12)c4)C[C@@H]%13CC[N@]1C[C@@H]%13C=C,30,25,CF,0.153,C=CC1C[N@@]2CC[C@H]1CC2
+organocatalyst,GMT-oNF-2,Acetonitrile,[H][C@@]1([C@@H](c(ccn2)c3c2ccc(OC)c3)O)C[C@@H]4CC[N@+]1(C[C@@H]4C=C)Cc5cc(C[N@+]6(CC[C@H]7C[C@@]6([H])[C@@H](c(ccn8)c9c8ccc(OC)c9)O)C[C@@H]7C=C)cc(C[N@+]%10(CC[C@H]%11C[C@@]%10([H])[C@@H](c(ccn%12)c%13c%12ccc(OC)c%13)O)C[C@@H]%11C=C)c5,30,25,CF,0.153,C=CC1C[N@@]2CC[C@H]1CC2
+organocatalyst,GMT-oNF-2,Acetonitrile,[H][C@@]1([C@@H](c(ccn2)c3c2ccc(OC)c3)OC(C(C)(C)C)=O)C[C@@H]4CC[N@]1C[C@@H]4C=C,30,25,CF,0.153,C=CC1C[N@@]2CC[C@H]1CC2
+organocatalyst,GMT-oNF-2,Acetonitrile,O=c(c(N[C@@H]([C@@H]1[N@@](CC[C@H]2C1)C[C@@H]2C=C)c3ccnc4ccc(OC)cc34)c5N6CCOCCOCCOCCOCC6)c5=O,30,25,CF,0.153,C=CC1C[N@@]2CC[C@H]1CC2
+organocatalyst,GMT-oNF-2,Acetonitrile,[H][C@@]1([C@@H](c(ccn2)c3c2ccc(OC)c3)OC(CCCCCCCCCCC)=O)C[C@@H]4CC[N@]1C[C@@H]4C=C,30,25,CF,0.153,C=CC1C[N@@]2CC[C@H]1CC2
+organocatalyst,GMT-oNF-2,Acetonitrile,N[C@H]([C@@H]1[N@@](CC[C@H]2C1)C[C@@H]2C=C)c3ccnc4ccc(OC)cc34,30,25,CF,0.153,C=CC1C[N@@]2CC[C@H]1CC2
+organocatalyst,GMT-oNF-2,Acetonitrile,[H][C@@]1([C@@H](c(ccn2)c3c2ccc(O)c3)OC(c4ccccc4)=O)C[C@@H]5CC[N@]1C[C@@H]5C=C,30,25,CF,0.153,C=CC1C[N@@]2CC[C@H]1CC2
+organocatalyst,GMT-oNF-2,Acetonitrile,[H][C@@]1([C@@H](c(ccn2)c3c2ccc(OC)c3)OCc4cc(CO[C@@H]([C@]5([H])C[C@@H]6CC[N@]5C[C@@H]6C=C)c(ccn7)c8c7ccc(OC)c8)cc(CO[C@@H]([C@]9([H])C[C@@H]%10CC[N@]9C[C@@H]%10C=C)c(ccn%11)c%12c%11ccc(OC)c%12)c4)C[C@@H]%13CC[N@]1C[C@@H]%13C=C,30,25,CF,0.153,C=CC1C[N@@]2CC[C@H]1CC2
+organocatalyst,GMT-oNF-2,Acetonitrile,[H][C@@]1([C@@H](c(ccn2)c3c2ccc(O)c3)O)C[C@@H]4CC[N@]1C[C@@H]4C=C,30,25,CF,0.153,C=CC1C[N@@]2CC[C@H]1CC2
+organocatalyst,GMT-oNF-2,Acetonitrile,[H][C@@]1([C@@H](c(ccn2)c3c2ccc(OC)c3)OC(C45CC6CC(CC(C5)C6)C4)=O)C[C@@H]7CC[N@]1C[C@@H]7C=C,30,25,CF,0.153,C=CC1C[N@@]2CC[C@H]1CC2
+organocatalyst,GMT-oNF-2,Acetonitrile,[H][C@]1(C[C@@H]2CC[N@]1C[C@@H]2C=C)[C@H](O)c(ccn3)c4c3ccc(OC)c4,30,25,CF,0.153,C=CC1C[N@@]2CC[C@H]1CC2
+organocatalyst,GMT-oNF-2,Acetonitrile,O=C1CC2CCC1(CS(Nc3cccc(NS(CC4(CCC5CC4=O)C5(C)C)(=O)=O)n3)(=O)=O)C2(C)C,30,25,CF,0.153,[NH]c1nc([NH])ccc1
