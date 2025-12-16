@@ -8,3 +8,5 @@ An example prediction script can be run with the
 python model_predict.py
 
 command, which performs rejection prediction for the inputs in example/prediction_input.csv, producing an example/prediction_output.csv file with the predicted rejection values.
+
+The OSN Catalyst is available in the osncat.csv file.
