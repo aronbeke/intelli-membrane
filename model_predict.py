@@ -79,30 +79,13 @@ if __name__ == "__main__":
 
     ### --- TASKS AND RUNS --- ###
 
-    ### FOR APPDATA PROJECT ###
-
-    # dset = 'DSM'
-    # scale_extras=False
-    # tasks = []
-    # model_type = 'pt'
-    # suffix = '_v26'
-    # label_model = 'mcmpnn_' + model_type + suffix
-    # models_folder_path = ckpt_path + model_type 
-    # tasks.append(({'folder':'data/test_sets/appdata', 'file': 'Acetone_input.csv'}, {'folder': 'results/appdata', 'file':  'Acetone_predicted.csv'}))
-    # tasks.append(({'folder':'data/test_sets/appdata', 'file': 'Acetonitrile_input.csv'}, {'folder': 'results/appdata', 'file':  'Acetonitrile_predicted.csv'}))
-    # tasks.append(({'folder':'data/test_sets/appdata', 'file': 'Dimethyl formamide_input.csv'}, {'folder': 'results/appdata', 'file':  'Dimethyl formamide_predicted.csv'}))
-    # tasks.append(({'folder':'data/test_sets/appdata', 'file': 'Ethanol_input.csv'}, {'folder': 'results/appdata', 'file':  'Ethanol_predicted.csv'}))
-    # tasks.append(({'folder':'data/test_sets/appdata', 'file': 'Ethyl acetate_input.csv'}, {'folder': 'results/appdata', 'file':  'Ethyl acetate_predicted.csv'}))
-    # tasks.append(({'folder':'data/test_sets/appdata', 'file': 'Methanol_input.csv'}, {'folder': 'results/appdata', 'file':  'Methanol_predicted.csv'}))
-    # tasks.append(({'folder':'data/test_sets/appdata', 'file': 'Methyl tetrahydrofuran_input.csv'}, {'folder': 'results/appdata', 'file':  'Methyl tetrahydrofuran_predicted.csv'}))
-    # tasks.append(({'folder':'data/test_sets/appdata', 'file': 'Toluene_input.csv'}, {'folder': 'results/appdata', 'file':  'Toluene_predicted.csv'}))
-    # tasks.append(({'folder':'data/test_sets/appdata', 'file': 'Water_input.csv'}, {'folder': 'results/appdata', 'file':  'Water_predicted.csv'}))
-
-    # tasks.append(({'folder':'data/test_sets/appdata', 'file': 'xtest_appdata_opti.csv'}, {'folder': 'results/appdata', 'file':  'xtest_appdata_opti_predicted.csv'}))
-
-    # for (input_params, output_params) in tasks:
-    #     rejection_prediction(k, model_architecture, input_params, output_params, models_folder_path, label_model, nlc, dset, scale_extras=scale_extras)
-
-    ### FOR JEONG ###
-
-    # tasks.append(({'folder':'data/test_sets', 'file': 'jeong_rejections.csv'}, {'folder': 'results/mcmpnn', 'file':  'jeong_rejections_predicted.csv'}))
+    dset = 'DSN'
+    scale_extras=True
+    tasks = []
+    model_type = 'combi'
+    suffix = '_v42a'
+    label_model = 'mcmpnn_' + model_type + suffix
+    models_folder_path = ckpt_path + model_type 
+    tasks.append(({'folder':'example', 'file': 'prediction_input.csv'}, {'folder': 'example', 'file':  'prediction_output.csv'}))
+    for (input_params, output_params) in tasks:
+        rejection_prediction(k, model_architecture, input_params, output_params, models_folder_path, label_model, nlc, dset, scale_extras=scale_extras)
