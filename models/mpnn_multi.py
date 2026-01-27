@@ -731,7 +731,7 @@ class RejectionPredictor:
             logger=logger,
             enable_checkpointing=True,
             enable_progress_bar=prog_bar,
-            accelerator="gpu",
+            accelerator="auto",
             devices=1,   #  [self.device.index],
             max_epochs=epochs
         )
@@ -807,7 +807,7 @@ class RejectionPredictor:
             trainer = pl.Trainer(
                 logger=None,
                 enable_progress_bar=prog_bar,
-                accelerator="gpu",
+                accelerator="auto",
                 devices=1, #[self.device.index]
             )
 
@@ -1099,7 +1099,7 @@ class RejectionPredictor:
             logger=logger,
             enable_checkpointing=True,
             enable_progress_bar=prog_bar,
-            accelerator="gpu",
+            accelerator="auto",
             devices=1, #[self.device.index],
             max_epochs=epochs
         )
@@ -1218,7 +1218,7 @@ class RejectionPredictor:
             logger=logger,
             enable_checkpointing=True,
             enable_progress_bar=prog_bar,
-            accelerator="gpu",
+            accelerator="auto",
             devices=1, #[self.device.index],
             max_epochs=epochs
         )

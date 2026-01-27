@@ -93,7 +93,7 @@ if __name__ == '__main__':
     elif model_archi == 'mcmpnn' and model_type == 'combi':
         train_type = 'standard'
 
-        if model_version == 'v42a':
+        if model_version == 'v42a' or model_version == 'v42ar':
             filter = ('solute_category', 'metal_catalyst', '==')
             model_parameters = {
                 'dropout': 0.0474,
@@ -142,7 +142,7 @@ if __name__ == '__main__':
                     'test_type': 'solute_disjoint'
                 }
 
-        elif model_version == 'v42d':
+        elif model_version == 'v42d' or model_version == 'v42dr':
             filter = ('solute_category', 'organocatalyst', '==')
             model_parameters = {
                 'dropout': 0.08691,
@@ -191,7 +191,7 @@ if __name__ == '__main__':
                     'test_type': 'solute_disjoint'
                 }
             
-        elif model_version == 'v42c':
+        elif model_version == 'v42c' or model_version == 'v42cr':
             filter = ('solute_category', 'ligand', '==')
             model_parameters = {
                 'dropout': 0.0494,
